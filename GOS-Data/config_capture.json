@@ -1,0 +1,12 @@
+{
+    //V06:[30,60,90,120,150], V21:[210,240,270,300,330],
+    "view": [30,60,90,120,150],
+    //DXX:0,5,10,20,30,50
+    "dist": [0],
+    //SXX:"Open","Mule","Boxville"
+    "scene": ["Open"],
+    //LX_:"Midnight","Predawn","Dawn","Morning","Midday","Afternoon","Sunset","Dusk"
+    "time": ["Sunset"],
+    //L_X:"Sunny","Clouds","Overcast","Foggy","Neutral","Snowlight","Halloween"
+    "weat": ["Sunny"]
+}

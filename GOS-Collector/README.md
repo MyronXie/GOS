@@ -1,3 +1,0 @@
-# GOS-Collector
-
-Documentation will be added later...
