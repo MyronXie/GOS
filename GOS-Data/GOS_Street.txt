@@ -1,0 +1,1091 @@
+[Abattoir Ave]
+ABA_A1,  546.51,-2554.90,  6.20,-124.53,Abattoir Ave,Chum St,CYPRE
+ABA_A2,  637.98,-3001.40,  6.02, 129.28,Abattoir Ave,,ELYSIAN
+ABA_A3,  456.67,-2993.45,  6.02,   1.26,Abattoir Ave,,ELYSIAN
+ABA_A4,  489.83,-2949.13,  6.02, -89.78,Abattoir Ave,,ELYSIAN
+ABA_A5,  656.52,-2951.13,  6.02, -91.69,Abattoir Ave,,ELYSIAN
+[Abe Milton Pkwy]
+AMP_A1, -572.09,  -73.41, 41.96,-114.57,Abe Milton Pkwy,South Boulevard Del Perro,BURTON
+AMP_A2, -464.83, -228.78, 36.08,-156.82,Abe Milton Pkwy,Carcer Way,BURTON
+AMP_A3, -211.18, -494.14, 34.49, 178.51,Abe Milton Pkwy,Del Perro Fwy,VINE
+[Abe Milton Pkwy,Sub]
+AMP_B1, -293.11, -324.10, 30.01,  59.79,Abe Milton Pkwy,San Vitus Blvd,ROCKF//bi-dire
+AMP_B2, -427.82, -207.62, 36.24,  30.12,Abe Milton Pkwy,Carcer Way,BURTON
+AMP_B3, -559.21,  -61.85, 42.22,  66.77,Abe Milton Pkwy,Milton Rd,BURTON
+[Ace Jones Dr]
+AJD_A1,-1966.11,  521.43,108.88,-108.40,Ace Jones Dr,North Rockford Dr,CHIL
+AJD_A2,-1439.00,  523.21,118.11, -87.37,Ace Jones Dr,Mad Wayne Thunder Dr,CHIL
+[Adam's Apple Blvd]
+AAB_A1,  480.26,-1129.57, 29.38,  88.71,Adam's Apple Blvd,Little Bighorn Ave,SKID
+AAB_A2,  370.99,-1129.00, 29.36,  90.56,Adam's Apple Blvd,Sinner St,SKID
+AAB_A3, -521.08,-1067.71, 22.46,  59.34,Adam's Apple Blvd,Calais Ave,KOREAT
+[Aguja St]
+AGS_A1,-1090.23,-1367.38,  5.22, 114.09,Aguja St,Goma St,DELSOL
+AGS_A2,-1188.91,-1423.52,  4.37, 125.17,Aguja St,Magellan Ave,VESP
+[Algonquin Blvd]
+ALB_A1, 2050.59, 3933.39, 33.09, 118.72,Algonquin Blvd,,SANDY
+ALB_A2, 1269.81, 3541.58, 35.19, 109.51,Algonquin Blvd,Joshua Rd,DESRT
+[Alhambra Dr]
+ALD_A1, 2031.20, 3767.16, 32.29, 119.32,Alhambra Dr,Marina Dr,SANDY
+ALD_A2, 1671.72, 3560.36, 35.55, 119.66,Alhambra Dr,Panorama Dr,SANDY
+[Alta Pl]
+ALP_A1,  160.55, -171.55, 54.25, -20.01,Alta Pl,Hawick Ave,HAWICK
+ALP_A1,  200.97,  -63.70, 68.69, -21.16,Alta Pl,Spanish Ave,HAWICK
+[Alta St]
+ALS_A1, -383.25,-1814.08, 21.65,  19.35,Alta St,Davis Ave,STAD
+ALS_A2, -192.82, -938.49, 29.28, -20.47,Alta St,,PBOX
+ALS_A3,  246.40,  431.53,120.20,  12.88,Alta St,Power St,DTVINE
+[Amarillo Vista]
+AMV_A1, 1376.10,-1700.34, 62.70, 105.30,Amarillo Vista,El Rancho Blvd,EBURO
+AMV_A2, 1231.34,-1758.78, 42.65, 115.17,Amarillo Vista,,EBURO
+AMV_A3, 1175.99,-1720.98, 35.30,  32.70,Amarillo Vista,Innocence Blvd,EBURO
+[Amarillo Way]
+AMW_A1, 1142.57,-1738.93, 35.62,-161.23,Amarillo Way,Innocence Blvd,EBURO
+AMW_A2, 1175.13,-1828.86, 37.29,-157.47,Amarillo Way,Labor Pl,EBURO
+[Americano Way]
+AOW_A1,-1675.72,   99.54, 64.08,-115.87,Americano Way,Picture Perfect Drive,RICHM
+AOW_A2,-1444.03,   57.06, 52.32, -83.43,Americano Way,West Eclipse Blvd,RICHM
+[Armadillo Ave]
+ARA_A1, 1752.67, 3901.08, 34.87,-151.07,Armadillo Ave,Marina Dr,SANDY
+ARA_A2, 1851.17, 3728.88, 33.12,-149.65,Armadillo Ave,Zancudo Ave,SANDY
+[Atlee St]
+ATS_A1,  270.53, -954.48, 29.32, -90.85,Atlee St,Strawberry Ave,SKID
+ATS_A2,  495.99, -957.22, 27.14, -90.76,Atlee St,Little Bighorn Ave,SKID
+[Autopia Pkwy]
+AUP_A1, -954.03,-2150.39,  8.82, -50.13,Autopia Pkwy,Greenwich Pkwy,AIRP
+AUP_A2, -575.18,-2061.23,  6.46,-139.33,Autopia Pkwy,Dutch London St,LOSPUER
+AUP_A3, -149.95,-2178.33, 10.18, -71.54,Autopia Pkwy,,BANNING
+AUP_A4, -145.43,-1924.85, 24.50,  41.33,Autopia Pkwy,,STAD
+AUP_A5, -241.86,-1841.33, 29.08,  21.71,Autopia Pkwy,Davis Ave,STAD
+[Autopia Pkwy,Sub]
+AUP_B1, -234.77,-1861.73, 28.84,-131.91,Autopia Pkwy,Davis Ave,STAD
+AUP_B2, -154.84,-1987.42, 22.94, 172.89,Autopia Pkwy,,STAD
+AUP_B3, -163.99,-2084.90, 25.28,-162.79,Autopia Pkwy,Dutch London St,STAD
+[Banham Canyon Dr]
+BCD_A1,-3086.25, 1184.09, 20.61, -87.37,Banham Canyon Dr,Great Ocean Hwy,CHU
+BCD_A2,-1759.15,  814.39,141.17,-139.45,Banham Canyon Dr,North Rockford Dr,RGLEN
+[Barbareno Rd]
+BAR_A1,-3109.90, 1322.78, 20.19,  88.44,Barbareno Rd,Great Ocean Hwy,CHU
+BAR_A2,-3202.57, 1129.58,  9.95, 153.10,Barbareno Rd,,CHU
+BAR_A3,-3168.77,  906.73, 14.43, -90.59,Barbareno Rd,Great Ocean Hwy,CHU
+[Baytree Canyon Rd]
+BCR_A1,  241.62,  448.79,121.82, -11.55,Baytree Canyon Rd,Power St,CHIL
+BCR_A2,  864.02, 2225.41, 48.52, -87.08,Baytree Canyon Rd,Senora Rd,RTRAK
+[Baytree Canyon Rd,Sub]
+BCR_B1,   65.92, 2069.94,151.69,-100.99,Baytree Canyon Rd,,DESRT
+BCR_B2,   -2.77, 1828.84,207.27, 112.08,Baytree Canyon Rd,,DESRT
+[Bay City Ave]
+BAC_A1,-1174.81,-1775.46,  3.85, -62.10,Bay City Ave,,BEACH
+BAC_A2,-1004.77,-1590.42,  5.14,  10.06,Bay City Ave,Rub St,DELSOL
+BAC_A3,-1292.47, -878.19, 11.65,  33.55,Bay City Ave,San Andreas Ave,DELPE
+BAC_A4,-1682.80, -544.40, 35.96,  51.97,Bay City Ave,Cougar Ave,DELPE
+BAC_A5,-1686.45, -381.29, 48.10, -45.92,Bay City Ave,West Eclipse Blvd,PBLUFF
+[Bay City Incline]
+BCI_A1,-1720.64, -552.88, 37.37, 134.55,Bay City Incline,Bay City Ave,DELPE
+BCI_A2,-2057.30, -379.03, 11.31,  89.29,Bay City Incline,Del Perro Fwy,PBLUFF
+[Boulevard Del Perro]
+BDP_A1,-1638.69, -576.99, 33.58, -49.53,Boulevard Del Perro,Bay City Ave,DELPE
+BDP_A2,-1056.54, -214.64, 37.78, -59.01,Boulevard Del Perro,Dorset Dr,ROCKF
+BDP_A3, -556.26,   -4.74, 44.32, -89.86,Boulevard Del Perro,Hawick Ave,BURTON
+[Bridge St]
+BRS_A1, 1072.46, -496.63, 63.05, -11.05,Bridge St,Nikola Ave,MIRR
+BRS_A2,  983.32, -296.68, 67.05,  56.29,Bridge St,Glory Way,MIRR
+BRS_A3,  633.01,  -67.92, 75.22,  28.61,Bridge St,Elgin Ave,HAWICK
+[Brouge Ave]
+BRA_A1,   66.68,-1901.14, 21.60, -40.52,Brouge Ave,Grove St,DAVIS
+BRA_A2,  274.58,-1678.89, 29.24, -33.00,Brouge Ave,Macdonald St,RANCHO
+[Buccaneer Way]
+BUW_A1,  727.26,-2491.47, 20.17, 179.99,Buccaneer Way,Chum St,CYPRE
+BUW_A2, 1093.05,-3323.10,  5.89, -90.36,Buccaneer Way,,TERMINA
+BUW_A3, 1002.73,-3222.53,  5.89,  91.12,Buccaneer Way,,TERMINA
+BUW_A4,  802.19,-3154.28,  5.87,  48.85,Buccaneer Way,,TERMINA
+BUW_A5,  737.58,-2834.72,  6.19,   1.79,Buccaneer Way,,TERMINA
+[Buccaneer Way,Sub]
+BUW_B1,  833.31,-2989.90,  5.88,  -3.63,Buccaneer Way,,TERMINA
+BUW_B2, 1004.57,-2958.88,  5.88, -89.60,Buccaneer Way,,TERMINA
+BUW_B3, 1191.72,-2980.67,  5.88, 178.99,Buccaneer Way,,TERMINA
+BUW_B4, 1134.99,-3059.67,  5.88,  88.70,Buccaneer Way,,TERMINA
+BUW_B5,  880.82,-3083.73,  5.88, 178.85,Buccaneer Way,,TERMINA
+BUW_B6, 1019.49,-3172.13,  5.88, -90.56,Buccaneer Way,,TERMINA
+BUW_B7, 1168.91,-3132.72,  5.78,   0.17,Buccaneer Way,,TERMINA
+BUW_B8, 1254.84,-3284.92,  5.80, 179.02,Buccaneer Way,,TERMINA
+BUW_B9, 1169.41,-3307.65,  5.89,  -0.82,Buccaneer Way,,TERMINA
+[Buen Vino Rd]
+BVR_A1,-2653.25, 1507.09,117.72, -33.74,Buen Vino Rd,Banham Canyon Dr,BHAMCA
+BVR_A2,-2092.17, 2304.43, 37.55,  13.57,Buen Vino Rd,Route 68,TONGVAH
+[Caesars Place]
+CAP_A1, -955.39,   81.27, 51.79,-161.53,Caesars Place,Spanish Ave,ROCKF
+CAP_A2, -845.20,    3.33, 42.79, -79.67,Caesars Place,Portola Dr,ROCKF
+CAP_A3, -796.55,   35.35, 47.83, -25.44,Caesars Place,,ROCKF
+CAP_A4, -774.93,   93.66, 54.78,   4.61,Caesars Place,Spanish Ave,ROCKF
+[Calafia Rd]
+CAR_A1, -203.58, 4210.40, 44.63, 144.03,Calafia Rd,North Calafia Way,Calafia Bridge
+CAR_A2,  229.29, 3330.44, 39.88,-168.47,Calafia Rd,Joshua Rd,Zancudo River
+[Calais Ave]
+CAA_A1, -622.14,-1291.25, 10.66, -30.34,Calais Ave,South Rockford Dr,DELSOL
+CAA_A2, -535.11,-1032.23, 22.83,  -4.23,Calais Ave,,KOREAT
+CAA_A3, -545.61, -671.26, 33.28,  -4.01,Calais Ave,San Andreas Ave,KOREAT
+[Capital Blvd]
+CAB_A1,  234.43,-1311.16, 29.36, -92.99,Capital Blvd,Strawberry Ave,STRAW
+CAB_A2,  629.08,-1439.59, 30.39, -90.21,Capital Blvd,,LMESA
+CAB_A3,  772.98,-1443.88, 27.19, -91.68,Capital Blvd,Popular St,LMESA
+CAB_A4,  896.40,-1444.85, 30.58, -89.25,Capital Blvd,,LMESA
+CAB_A5, 1248.48,-1438.48, 35.00, -67.71,Capital Blvd,El Rancho Blvd,EBURO
+[Carcer Way]
+CAW_A1, -615.74, -338.44, 34.69, -61.40,Carcer Way,Dorset Dr,ROCKF
+CAW_A2, -464.02, -258.35, 35.97, -65.39,Carcer Way,Abe Milton Pkwy,BURTON
+CAW_A3, -310.87, -187.31, 39.10, -75.89,Carcer Way,San Vitus Blvd,BURTON
+//CAW_A4, -115.46, -223.50, 44.80,-110.91,Carcer Way,Las Lagunas Blvd,BURTON//Tunnel
+[Carson Ave]
+CNA_A1,  479.16,-2042.54, 24.83,  50.82,Carson Ave,El Rancho Blvd,RANCHO
+CNA_A2,  -79.42,-1545.77, 32.55,  49.76,Carson Ave,,CHAMH
+CNA_A3, -211.05,-1441.54, 31.43,  46.23,Carson Ave,Innocence Blvd,CHAMH
+[Cascabel Ave]
+CLA_A1, -170.86, 6474.58, 30.29,-138.25,Cascabel Ave,Procopio Dr,Paleto Bay
+CLA_A2, -120.49, 6422.87, 31.32,-133.19,Cascabel Ave,Paleto Blvd,Paleto Bay
+[Cassidy Trail,Slow]
+CAT_A1,-1923.81, 4469.44, 32.11, -36.08,Cassidy Trail,,North Chumash
+CAT_A2, -206.36, 4219.60, 44.72, -92.75,Cassidy Trail,North Calafia Way,Calafia Bridge
+[Cat-Claw Ave]
+CWA_A1, 2292.98, 3015.43, 46.30, -19.77,Cat-Claw Ave,Route 68,DESRT
+CWA_A2, 2245.58, 3240.29, 48.10,  -0.57,Cat-Claw Ave,Smoke Tree Rd,DESRT
+[Catfish View]
+CAV_A1, 2801.77, 4951.46, 33.66, -51.99,Catfish View,Grapeseed Ave,San Chianski Mountain Range
+CAV_A2, 3783.29, 4462.41,  6.01,-107.10,Catfish View,,San Chianski Mountain Range
+//[Cavalry Blvd]
+[Chianski Passage]
+CHP_A1, 2905.84, 4440.65, 48.15,-163.87,Chianski Passage,Union Rd,San Chianski Mountain Range
+CHP_A2, 3433.05, 3760.78, 30.49, -56.51,Chianski Passage,,Humane Labs and Research
+[Cholla Rd]
+CHR_A1, 1827.09, 3291.00, 43.34, -61.33,Cholla Rd,Panorama Dr,Grand Senora Desert
+CHR_A2, 1971.89, 3287.34, 45.55,-145.86,Cholla Rd,Smoke Tree Rd,Grand Senora Desert
+[Cholla Springs Ave]
+CSA_A1, 1578.45, 3716.26, 34.52, -60.57,Cholla Springs Ave,Panorama Dr,SANDY
+CSA_A2, 1863.68, 3892.53, 33.05, -81.26,Cholla Springs Ave,Niland Ave,SANDY
+[Chum St]
+CHS_A1,  160.08,-2541.50,  6.00,  -2.48,Chum St,Chupacabra St,ELYSIAN
+CHS_A2,  204.29,-2394.26,  7.83, -84.45,Chum St,,ELYSIAN
+CHS_A3,  258.21,-2526.78,  5.92,-140.44,Chum St,Plaice Pl,ELYSIAN
+CHS_A4,  720.41,-2479.27, 20.17, -64.39,Chum St,Buccaneer Way,CYPRE
+[Chum St,Sub]
+CHS_B1,  693.46,-2466.16, 19.83, 131.93,Chum St,,CYPRE
+CHS_B2,  671.93,-2482.78, 19.63, 114.47,Chum St,Buccaneer Way,CYPRE
+CHS_B3,  535.91,-2547.75,  5.95,-125.21,Chum St,Abattoir Ave,CYPRE
+[Chupacabra St]
+CAS_A1,   88.93,-2487.67,  5.98,  53.07,Chupacabra St,,ELYSIAN
+CAS_A2,  -52.95,-2397.77,  5.98,  88.42,Chupacabra St,,ELYSIAN
+CAS_A3, -215.66,-2397.17,  5.98,  89.44,Chupacabra St,,ELYSIAN
+CAS_A4, -214.20,-2432.79,  5.98,-124.93,Chupacabra St,Miriam Turner Overpass,ELYSIAN
+CAS_A5,  -60.83,-2461.47,  5.99,-125.04,Chupacabra St,,ELYSIAN
+CAS_A6,  -49.15,-2497.66,  5.99,-126.13,Chupacabra St,,ELYSIAN
+CAS_A7,    6.21,-2535.50,  6.01,-125.20,Chupacabra St,,ELYSIAN
+[Chupacabra St,Sub]
+CAS_B1,   18.64,-2543.52,  6.02,-122.66,Chupacabra St,,ELYSIAN
+CAS_B2,  154.39,-2555.77,  5.98, -87.13,Chupacabra St,Chum St,ELYSIAN
+[Clinton Ave]
+CIA_A1,   53.63,  293.92,110.50, -21.44,Clinton Ave,Las Lagunas Blvd,DTVINE
+CIA_A2,  334.48,  318.60,104.92,-112.32,Clinton Ave,,DTVINE
+CIA_A3,  783.44,  156.01, 81.11,-106.88,Clinton Ave,Elgin Ave,CHIL
+[Cockingend Dr]
+COD_A1,-1076.23,  442.26, 74.22, -72.06,Cockingend Dr,Mad Wayne Thunder Dr,ROCKF
+COD_A2, -993.38,  504.72, 79.70, -95.95,Cockingend Dr,,CHIL
+COD_A3, -952.04,  423.85, 78.81,-161.35,Cockingend Dr,Picture Perfect Drive,ROCKF
+[Conquistador St]
+COS_A1,-1354.44,-1118.64,  4.14, -67.76,Conquistador St,,BEACH
+COS_A2,-1253.91,-1068.51,  8.41, -65.17,Conquistador St,Bay City Ave,VCANA
+[Cortes St]
+CSS_A1,-1350.89,-1207.46,  4.37, -88.77,Cortes St,,BEACH
+CSS_A2,-1220.83,-1161.52,  7.73, -72.66,Cortes St,Bay City Ave,VCANA
+[Cougar Ave]
+COA_A1,-1696.58, -518.15, 37.51, -40.87,Cougar Ave,Bay City Ave,DELPE
+COA_A2,-1428.35, -187.54, 47.46, -41.37,Cougar Ave,Morningwood Blvd,MORN
+COA_A3,-1396.36,  -83.12, 52.53, -11.08,Cougar Ave,Dorset Dr,ROCKF
+[Covenant Ave]
+CTA_A1,  106.28,-1867.86, 24.24,-111.80,Covenant Ave,Brouge Ave,DAVIS
+CTA_A2,  199.48,-1913.09, 23.26,-135.55,Covenant Ave,Roy Lowenstein Blvd,DAVIS
+[Cox Way]
+COW_A1, -532.03,  436.42, 97.68,-146.31,Cox Way,Milton Rd,WVINE
+COW_A2, -393.95,  407.86,109.52, -41.69,Cox Way,,WVINE
+COW_A3, -304.28,  442.46,107.95, -62.27,Cox Way,Didion Dr,WVINE
+[Crusade Rd]
+CRR_A1,  255.31,-1432.79, 29.20, -34.51,Crusade Rd,Innocence Blvd,DAVIS
+CRR_A2,  368.20,-1298.13, 32.40, -34.70,Crusade Rd,Capital Blvd,STRAW
+CRR_A3,  489.37,-1260.98, 29.35, -86.26,Crusade Rd,Little Bighorn Ave,STRAW
+[Davis Ave]
+DAA_A1, -751.31,-2184.19, 15.10, -41.54,Davis Ave,Dutch London St,AIRP
+DAA_A2,  462.73,-1447.80, 29.22, -75.14,Davis Ave,Capital Blvd,RANCHO
+[Decker St]
+DES_A1, -849.46, -937.13, 15.64,   1.84,Decker St,South Rockford Dr,VCANA
+DES_A2, -856.46, -670.34, 27.80,   0.44,Decker St,San Andreas Ave,KOREAT
+[Del Perro Fwy]
+DPF_A1,-2160.31, -362.35, 13.06,-103.90,Del Perro Fwy,West Eclipse Blvd,PBLUFF
+DPF_A2, 1043.56,-1123.95, 25.34, 177.30,Del Perro Fwy,Olympic Fwy,MURRI
+[Didion Dr]
+DID_A1,   60.80,  344.70,112.76,  60.54,Didion Dr,Las Lagunas Blvd,DTVINE
+DID_A2, -189.94,  428.08,110.28, 126.62,Didion Dr,,WVINE
+DID_A3, -403.52,  356.04,108.19,  97.00,Didion Dr,,WVINE
+DID_A4, -471.51,  394.64,101.38,   8.27,Didion Dr,Cox Way,WVINE
+[Didion Dr,Sub]
+DID_B1, -239.31,  420.14,109.04,  67.40,Didion Dr,,WVINE
+DID_B2, -496.92,  576.87,120.84,  43.57,Didion Dr,Milton Rd,CHIL
+[Dorset Dr]
+DOD_A1,-1393.41,  -75.28, 52.50, -71.74,Dorset Dr,Cougar Ave,ROCKF
+DOD_A2, -186.11, -402.45, 32.70, -62.34,Dorset Dr,Las Lagunas Blvd,BURTON
+[Dorset Pl]
+DOP_A1, -426.07, -368.53, 32.61, -10.12,Dorset Pl,Dorset Dr,ROCKF
+DOP_A2, -415.31, -296.27, 34.89, -31.55,Dorset Pl,Abe Milton Pkwy,BURTON
+[Dry Dock St]
+DDS_A1,  778.22,-2239.57, 29.25, -96.70,Dry Dock St,Popular St,CYPRE
+DDS_A2,  909.34,-2250.65, 30.50, -90.02,Dry Dock St,Orchardville Ave,CYPRE
+[Duluoz Ave]
+DUA_A1, -231.54, 6161.05, 31.34,  43.84,Duluoz Ave,Great Ocean Hwy,Paleto Bay
+DUA_A2, -358.58, 6303.36, 29.92,  11.60,Duluoz Ave,Procopio Dr,Paleto Bay
+[Dunstable Dr]
+DUD_A1, -916.33,  257.07, 70.28,  13.58,Dunstable Dr,West Eclipse Blvd,ROCKF
+DUD_A2, -942.09,  358.70, 71.97,  54.03,Dunstable Dr,Dunstable Ln,ROCKF
+DUD_A3,-1016.27,  389.01, 71.32,  16.60,Dunstable Dr,Picture Perfect Drive,ROCKF
+[Dunstable Ln]
+DUL_A1, -921.56,  295.51, 70.74, -75.71,Dunstable Ln,Dunstable Dr,ROCKF
+DUL_A2, -903.87,  360.17, 78.94,   1.80,Dunstable Ln,Dunstable Dr,ROCKF
+DUL_A3, -862.88,  402.31, 87.22, -88.08,Dunstable Ln,South Mo Milton Dr,ROCKF
+[Dutch London St]
+DLS_A1, -637.15,-1309.89, 10.64, 160.50,Dutch London St,South Rockford Dr,DELSOL
+DLS_A2, -627.44,-1959.04, 27.26,-122.86,Dutch London St,Davis Ave,LOSPUER
+DLS_A3,  360.05,-2167.95, 14.00,-109.87,Dutch London St,Signal St,RANCHO
+DLS_A4,  488.55,-2071.24, 24.76, -56.35,Dutch London St,El Rancho Blvd,RANCHO
+[Dutch London St,Sub]
+DLS_B1, -747.61,-2185.54, 15.04, -48.42,Dutch London St,Davis Ave,AIRP
+DLS_B2, -649.10,-1924.36, 27.24,  72.68,Dutch London St,Davis Ave,LOSPUER
+[Dutch London St,Sub]
+DLS_C1, -557.29,-2083.70, 27.42, -94.21,Dutch London St,Autopia Pkwy,LOSPUER
+DLS_C2, -367.87,-2106.79, 24.96,-100.80,Dutch London St,Davis Ave,STAD
+[East Galileo Ave]
+EGA_A1,  232.96, 1343.41,238.50,  64.75,East Galileo Ave,Baytree Canyon Rd,CHIL
+EGA_A2, -231.60, 1488.70,288.87, 105.66,East Galileo Ave,,CHIL
+EGA_A3, -373.73, 1451.37,288.87, 104.95,East Galileo Ave,,CHIL
+EGA_A4, -462.37, 1318.81,308.63,-172.80,East Galileo Ave,Galileo Park,CHIL
+[East Galileo Ave,Sub]
+EGA_B1, -193.40, 1477.30,288.89, 149.45,East Galileo Ave,,CHIL
+EGA_B2, -424.61, 1192.79,325.62,  78.10,East Galileo Ave,Galileo Park,OBSERV
+[East Joshua Road]
+EJR_A1, 1706.96, 3511.71, 36.43, -61.07,East Joshua Road,Panorama Dr,SANDY
+EJR_A2, 2769.91, 4398.89, 48.96, -76.72,East Joshua Road,Senora Fwy,SANCHIA
+[East Mirror Dr]
+EMD_A1, 1211.19, -763.28, 57.72, -83.93,East Mirror Dr,Mirror Park Blvd,MIRR
+EMD_A2, 1282.70, -621.75, 68.96,  33.95,East Mirror Dr,,MIRR
+EMD_A3, 1289.92, -454.46, 69.04,   9.06,East Mirror Dr,,MIRR
+EMD_A4, 1222.25, -373.08, 68.77,  97.76,East Mirror Dr,Mirror Park Blvd,MIRR
+[Eastbourne Way]
+EAW_A1, -786.25, -265.53, 37.05, -72.00,Eastbourne Way,Mad Wayne Thunder Dr,ROCKF
+EAW_A2, -392.30,  -18.79, 46.92, -14.72,Eastbourne Way,Hawick Ave,BURTON
+EAW_A3, -389.97,  120.93, 65.62,   1.15,Eastbourne Way,Spanish Ave,WVINE
+[Eclipse Blvd]
+ECB_A1, -648.30,  258.64, 81.42,-100.33,Eclipse Blvd,Strangeways Dr,WVINE
+ECB_A2,   20.54,  249.92,109.56,-111.86,Eclipse Blvd,Las Lagunas Blvd,WVINE
+[Edwood Way]
+EDW_A1, -754.61,  127.87, 58.01,  71.87,Edwood Way,Rockford Dr,ROCKF
+EDW_A2, -858.86,  135.03, 59.67,  86.75,Edwood Way,Portola Dr,ROCKF
+[El Burro Blvd]
+EBB_A1, 1173.44,-2571.48, 35.05,-145.15,El Burro Blvd,Elysian Fields Fwy,EBURO
+EBB_A2, 1652.89,-2186.67,108.53, -20.33,El Burro Blvd,,EBURO
+EBB_A3, 1975.88, -923.69, 79.15,  38.88,El Burro Blvd,Sustancia Rd,PALHIGH
+[El Rancho Blvd]
+ERB_A1,  505.29,-2056.42, 26.32, -69.18,El Rancho Blvd,Carson Ave,RANCHO
+ERB_A2, 1274.61,-2050.58, 44.34, -72.86,El Rancho Blvd,Elysian Fields Fwy,EBURO
+ERB_A3, 1172.94, -867.78, 53.96, -19.67,El Rancho Blvd,San Andreas Ave,MURRI
+[Elgin Ave]
+ELA_A1,   93.41,-1324.47, 29.27,  32.23,Elgin Ave,Innocence Blvd,STRAW
+ELA_A2,  281.28, -564.02, 43.23, -18.39,Elgin Ave,Del Perro Fwy,DOWNT
+ELA_A3,  408.48, -399.59, 46.86, -68.48,Elgin Ave,,ALTA
+ELA_A4, 1019.20,  477.25, 96.26, -43.54,Elgin Ave,Vinewood Park Dr,CHIL
+[Elysian Fields Fwy]
+EFF_A1,   10.67,-2623.39, 26.38,-113.69,Elysian Fields Fwy,Plaice Pl,ELYSIAN//delete chalu
+EFF_A2, 1265.58,-2089.70, 45.33,  18.19,Elysian Fields Fwy,,EBURO
+EFF_A3, 1070.30,-1274.80, 25.58,   3.05,Elysian Fields Fwy,Olympic Fwy,MURRI
+EFF_A4, 1066.49,-1109.19, 25.34,  -1.62,Elysian Fields Fwy,Del Perro Fwy,MURRI
+[Equality Way]
+EQW_A1,-1630.53, -766.93, 10.38,-123.19,Equality Way,Magellan Ave,DELPE
+EQW_A2,-1389.21, -821.88, 19.27, -40.02,Equality Way,Bay City Ave,DELPE
+[Equality Way,Sub]
+EQW_B1,-1400.17, -811.46, 19.11, 137.57,Equality Way,Bay City Ave,DELPE
+EQW_B2,-1823.61, -570.88, 11.44,  49.37,Equality Way,Del Perro Fwy,DELPE
+[Exceptionalists Way]
+EXW_A1, -807.57,-2543.62, 13.68, -29.27,Exceptionalists Way,New Empire Way,AIRP
+EXW_A2, -502.95,-2144.44,  9.03, -40.03,Exceptionalists Way,Autopia Pkwy,AIRP
+[Fantastic Pl,Short]
+FAP_A1,  302.09,-1126.21, 29.44,  -1.38,Fantastic Pl,Adam's Apple Blvd,SKID
+FAP_A2,  302.52,-1062.75, 29.35,  -0.06,Fantastic Pl,Vespucci Blvd,SKID
+[Fenwell Pl]
+FEP_A1,  584.57,  270.07,103.05, -15.08,Fenwell Pl,Clinton Ave,DTVINE
+FEP_A2,  913.00,  521.55,120.59,   5.83,Fenwell Pl,Vinewood Park Dr,CHIL
+[Fenwell Pl,Sub]
+FEP_B1,  653.47,  645.79,128.89,-111.45,Marlowe Dr,,CHIL
+FEP_B2,  907.04,  525.05,121.67,-100.82,Fenwell Pl,Vinewood Park Dr,CHIL
+[Fort Zancudo Approach Rd]
+FOZ_A1,-1293.61, 2537.64, 18.53,  79.99,Fort Zancudo Approach Rd,Route 68,Great Chaparral
+FOZ_A2,-1584.07, 2795.22, 16.84,  40.77,Fort Zancudo Approach Rd,,Fort Zancudo
+[Forum Dr]
+FOR_A1,   54.32,-1495.25, 29.27,  38.48,Forum Dr,Strawberry Ave,STRAW
+FOR_A2,  -86.79,-1484.67, 32.55, 135.35,Forum Dr,,CHAMH
+FOR_A3, -166.68,-1576.03, 35.13, 137.37,Forum Dr,,CHAMH
+FOR_A4, -148.56,-1722.73, 30.04,-129.19,Forum Dr,Strawberry Ave,CHAMH
+[Fudge Ln]
+FUL_A1, 1162.10,-1693.09, 35.70, -11.79,Fudge Ln,Innocence Blvd,EBURO
+FUL_A2, 1292.32,-1577.26, 51.36, -51.25,Fudge Ln,El Rancho Blvd,EBURO
+FUL_A3, 1312.97,-1555.09, 49.95, -68.18,Fudge Ln,El Rancho Blvd,EBURO
+FUL_A4, 1447.03,-1516.27, 62.80,-124.61,Fudge Ln,Sustancia Rd,EBURO
+[Galileo Park]
+GAO_A1, -432.50, 1193.45,325.66,  76.81,Galileo Park,East Galileo Ave,OBSERV
+GAO_A2, -455.60, 1317.82,308.91,   3.98,Galileo Park,East Galileo Ave,CHIL
+[Galileo Rd]
+GAR_A1, -776.72, 1662.49,201.67, -41.13,Galileo Rd,Mt Vinewood Dr,Vinewood Hills
+GAR_A2, -169.25, 1880.19,198.22, -65.70,Galileo Rd,Baytree Canyon Rd,Great Chaparral
+[Gentry Lane]
+GEL_A1,   -7.28,  273.96,108.53,  60.92,Gentry Lane,Eclipse Blvd,WVINE
+GEL_A2, -111.04,  415.56,113.10, -45.47,Gentry Lane,Didion Dr,WVINE
+[Ginger St]
+GIS_A1, -807.54,-1008.18, 13.29, -55.81,Ginger St,South Rockford Dr,KOREAT//tunnel
+GIS_A2, -741.84, -596.23, 30.25,  -6.53,Ginger St,,KOREAT
+GIS_A3, -587.76, -584.29, 25.31, -93.65,Ginger St,La Puerta Fwy,KOREAT
+GIS_A4, -447.98, -646.21, 31.62, 179.91,Ginger St,San Andreas Ave,KOREAT
+[Glory Way]
+GLOW42,  672.07, -397.12, 41.71, -41.30,Glory Way,Popular St,EAST_V
+GLOW43, 1018.29, -207.64, 70.24, -31.53,Glory Way,Mirror Park Blvd,EAST_V
+[Goma St]
+GOSA44,-1201.71,-1538.97,  4.37, -62.67,Goma St,Aguja St,BEACH
+GOSA45,-1119.19,-1475.50,  4.78, -64.08,Goma St,Bay City Ave,DELSOL
+GOSA46,-1087.49,-1436.28,  5.04,  -5.19,Goma St,Bay City Ave,DELSOL
+GOSA47,-1047.93,-1300.84,  5.90, -34.01,Goma St,Palomino Ave,DELSOL
+[Grapeseed Ave]
+GRAA10, 2452.08, 4602.69, 36.92, -44.44,Grapeseed Ave,Seaview Rd,Grapeseed
+GRAA11, 2798.96, 4949.67, 33.67, -52.22,Grapeseed Ave,Catfish View,San Chianski Mountain Range
+[Grapeseed Main St]
+GMSA09, 1746.95, 4588.95, 39.95,  41.75,Grapeseed Main St,North Calafia Way,Grapeseed
+GMSA08, 1955.42, 5138.10, 43.32,-136.06,Grapeseed Main St,Union Rd,Grapeseed
+[Great Ocean Hwy]
+GOH_A1, 1572.43, 6428.08, 24.69,  68.51,Great Ocean Hwy,Senora Fwy,MTCHIL
+GOH_A2,-2560.79, 3392.65, 13.20, 167.14,Great Ocean Hwy,,NCHU
+GOH_A3,-2609.74, 2960.60, 16.62, 171.89,Great Ocean Hwy,,LAGO
+GOH_A4,-2175.56, -353.75, 13.14,-101.05,Great Ocean Hwy,Del Perro Fwy,PBLUFF
+[Greenwich Pkwy]
+GRPA48, -669.48,-1460.19, 10.34, 113.08,Greenwich Pkwy,Dutch London St,LOSPUER
+GRPA49,-1097.61,-1988.66, 13.13,-179.37,Greenwich Pkwy,,AIRP
+GRPA50, -725.69,-2389.58, 14.57,-134.36,Greenwich Pkwy,Exceptionalists Way,AIRP
+[Greenwich Pkwy,Sub]
+GRPB92,-1095.84,-1955.10, 13.00,  93.91,Greenwich Pkwy,,BEACH
+GRPB93,-1208.70,-2075.23, 13.90, 162.61,Greenwich Pkwy,,AIRP
+GRPB94,-1159.77,-2232.85, 13.90,-121.52,Greenwich Pkwy,,AIRP
+[Greenwich Pl]
+GHPA51,-1138.56,  274.31, 66.11,  19.90,Greenwich Pl,West Eclipse Blvd,golf
+GHPA52,-1186.83,  398.74, 74.20, -13.02,Greenwich Pl,Picture Perfect Drive,golf
+[Greenwich Way]
+GRWA53,-1072.20,  338.53, 66.85, -88.56,Greenwich Way,Mad Wayne Thunder Dr,ROCKF
+GRWA54, -976.54,  360.43, 72.29, -19.80,Greenwich Way,Dunstable Dr,ROCKF
+[Grove St]
+GRSA55, -118.43,-1757.28, 29.86,-138.21,Grove St,Davis Ave,CHAMH
+GRSA56,  110.00,-1947.22, 20.76,-121.01,Grove St,,DAVIS
+[Hanger Way]
+HAWA00,  770.67,-2453.20, 20.32, -85.71,Hanger Way,Popular St,CYPRE
+HAWA01, 1031.14,-2467.79, 28.48, -28.15,Hanger Way,South Shambles St,CYPRE
+[Hangman Ave,Slow]
+HAAA00,-1355.83,  621.59,134.50, 161.48,Hangman Ave,North Sheldon Ave,CHIL
+HAAA01,-1358.80,  562.03,129.57, 116.46,Hangman Ave,,CHIL
+HAAA02,-1426.08,  547.04,122.07, 122.92,Hangman Ave,North Sheldon Ave,CHIL
+[Hardy Way]
+HYWA07,-1399.47,  214.52, 58.66,  30.33,Hardy Way,West Eclipse Blvd,golf
+HYWA08,-1441.30,  270.27, 61.07,  39.62,Hardy Way,Picture Perfect Drive,RICHM
+[Hawick Ave]
+HKAA01,  462.60, -305.41, 47.69,  64.19,Hawick Ave,Elgin Ave,ALTA
+HKAA72,   95.75, -162.24, 54.87,  68.33,Hawick Ave,Alta St,HAWICK
+HKAA10, -230.40,  -44.93, 49.50,  74.39,Hawick Ave,San Vitus Blvd,BURTON
+HKAA73, -544.56,   18.90, 44.19,  83.82,Hawick Ave,Milton Rd,WVINE
+[Heritage Way]
+HEWA12,-1090.32, -411.87, 36.59,-152.39,Heritage Way,Marathon Ave,MOVIE
+HEWA13, -975.36, -443.50, 37.80, -65.83,Heritage Way,Movie Star Way,ROCKF
+HEWA14, -804.20, -328.84, 37.01,  -6.94,Heritage Way,Dorset Dr,ROCKF
+[Hillcrest Ave]
+HILA15,-1045.63,  780.70,167.41,-177.21,Hillcrest Ave,North Sheldon Ave,CHIL
+HILA16, -804.00,  712.83,146.57,-108.59,Hillcrest Ave,,CHIL
+HILA17, -679.17,  696.83,154.51, -16.35,Hillcrest Ave,Normandy Dr,CHIL
+[Hillcrest Ridge Access Rd]
+HRAA18, -697.00,  492.86,109.48,  25.38,Hillcrest Ridge Access Rd,Picture Perfect Drive,CHIL
+HRAA19, -898.86,  659.01,134.60,  95.84,Hillcrest Ridge Access Rd,,CHIL
+HRAA20,-1187.72,  708.53,149.23,  46.18,Hillcrest Ridge Access Rd,North Sheldon Ave,CHIL
+[Imagination Ct,Slow]
+IMCA00,-1214.47,-1112.98,  7.90, -78.12,Imagination Ct,Bay City Ave,VCANA
+IMCA01,-1158.92,-1085.52,  2.04, -64.23,Imagination Ct,,VCANA
+IMCA02,-1148.72,-1079.89,  3.50, -60.16,Imagination Ct,,VCANA
+IMCA03,-1137.54,-1073.52,  2.15, -61.73,Imagination Ct,,VCANA
+IMCA04, -980.64, -982.09,  2.15, -59.74,Imagination Ct,,VCANA
+IMCA05, -967.01, -974.11,  3.87, -62.13,Imagination Ct,,VCANA
+IMCA06, -954.28, -966.62,  2.15, -57.12,Imagination Ct,,VCANA
+[Ineseno Road]
+INRA59,-3085.55,  749.92, 20.75, 126.81,Ineseno Road,Great Ocean Hwy,BHAMCA
+INRA60,-3029.30,  479.98,  6.69, 163.23,Ineseno Road,,BHAMCA
+INRA61,-3045.70,  223.23, 16.11, -97.40,Ineseno Road,Great Ocean Hwy,BHAMCA
+[Innocence Blvd]
+INB_A1, 1325.02,-1619.58, 52.31, 125.60,Innocence Blvd,El Rancho Blvd,EBURO
+INB_A9,  255.68,-1451.87, 29.32,  51.30,Innocence Blvd,Crusade Rd,DAVIS
+INB_A0, -294.20,-1425.18, 31.32,  89.33,Innocence Blvd,Alta St,STRAW
+INB_A2, -526.68,-1110.83, 22.05,  10.73,Innocence Blvd,Calais Ave,KOREAT
+[Integrity Way]
+INW_A1,  -43.32, -549.42, 39.93, -98.03,Integrity Way,Alta St,DOWNT
+INW_A2,  129.21, -579.21, 31.56,-110.45,Integrity Way,Swiss St,PBOX
+INW_A3,  390.76, -679.50, 29.28, -93.12,Integrity Way,Sinner St,TEXTI
+INW_A4,  497.31, -679.75, 25.25, -98.41,Integrity Way,Little Bighorn Ave,TEXTI
+[Invention Ct,Slow]
+INC_A1,-1192.67,-1206.80,  7.61, -80.97,Invention Ct,Bay City Ave,VCANA
+INC_A2,-1113.33,-1180.32,  2.15, -62.24,Invention Ct,,VCANA
+INC_A3,-1097.37,-1174.02,  3.35, -63.08,Invention Ct,,VCANA
+INC_A4,-1083.17,-1166.28,  2.15, -63.69,Invention Ct,,VCANA
+INC_A5, -931.08,-1075.92,  2.08, -63.85,Invention Ct,,VCANA
+INC_A6, -914.74,-1066.74,  3.69, -58.85,Invention Ct,,VCANA
+INC_A7, -900.40,-1058.78,  2.15, -61.82,Invention Ct,,VCANA
+INC_A8, -874.07,-1043.03,  5.47, -65.84,Invention Ct,,VCANA
+[Jamestown St]
+JAS_A1,  244.86,-2067.52, 17.48, -36.31,Jamestown St,Dutch London St,RANCHO
+JAS_A2,  481.56,-1813.75, 28.15, -36.53,Jamestown St,Macdonald St,RANCHO
+JAS_A3,  592.73,-1658.55, 25.37, -87.97,Jamestown St,Little Bighorn Ave,RANCHO
+[Joad Ln]
+JOL_A1, 1965.11, 5128.29, 43.12,-147.79,Joad Ln,Union Rd,Grapeseed
+JOL_A2, 2179.56, 4756.55, 41.11, 163.18,Joad Ln,Seaview Rd,Grapeseed
+[Joshua Rd]
+JOR_A1, 1688.09, 3506.95, 36.45, 117.20,Joshua Rd,Panorama Dr,SANDY
+JOR_A2,  280.83, 2642.68, 44.65,-163.68,Joshua Rd,Route 68,Harmony
+[Kimble Hill Dr]
+KHD_A1, -520.18,  661.02,139.98, -97.80,Kimble Hill Dr,Milton Rd,CHIL
+KHD_A2,  -99.33,  601.73,208.06, -84.07,Kimble Hill Dr,Lake Vinewood Dr,CHIL
+[Kortz Dr]
+KOD_A1,-1809.91,   81.79, 71.58, 137.61,Kortz Dr,North Rockford Dr,RICHM
+KOD_A2,-2105.04,  297.88,127.27,  23.58,Kortz Dr,,PBLUFF
+KOD_A3,-2311.82,  419.63,174.47, 175.72,Kortz Dr,,PBLUFF
+KOD_A4,-2311.18,  376.95,174.47,-112.36,Kortz Dr,,PBLUFF
+KOD_A5,-2304.72,  412.64,174.47,  20.58,Kortz Dr,,PBLUFF
+[La Puerta Fwy]
+LPF_A1, -415.59, -703.52, 37.17, 178.99,La Puerta Fwy,,KOREAT
+LPF_A2, -488.62,-2284.43, 62.25,-125.46,La Puerta Fwy,,AIRP
+[Labor Pl]
+LRP_A1,  954.93,-1886.99, 31.20, -94.09,Labor Pl,Orchardville Ave,SanAnd
+LRP_A2, 1400.08,-1769.34, 65.67, -78.74,Labor Pl,El Rancho Blvd,EBURO
+[Labor Pl,Sub]
+LRP_B1, 1237.30,-1835.28, 39.27,-173.78,Labor Pl,,EBURO
+LRP_B2, 1259.65,-1885.17, 38.47, -98.94,Labor Pl,,EBURO
+LRP_B3, 1311.35,-1932.37, 43.13,-142.57,Labor Pl,,MURRI
+LRP_B4, 1353.12,-1857.27, 56.71, -13.54,Labor Pl,,EBURO
+LRP_B5, 1351.03,-1784.60, 59.20,  13.75,Labor Pl,,EBURO
+[Laguna Pl]
+LAP_A1,    3.00, -116.00, 56.48, -15.05,Laguna Pl,Hawick Ave,HAWICK
+LAP_A2,   43.92,   -5.35, 69.52, -20.33,Laguna Pl,Spanish Ave,WVINE
+[Laguna Pl,Sub]
+LAP_B1,   35.60,   23.69, 70.09, -18.94,Laguna Pl,Spanish Ave,WVINE
+LAP_B2,   66.03,  109.19, 79.11, -18.32,Laguna Pl,Las Lagunas Blvd,DTVINE
+[Lake Vinewood Dr]
+LVD_A1, -335.26,  962.33,233.30, 151.61,Lake Vinewood Dr,Marlowe Dr,CHIL
+LVD_A2, -128.90,  642.67,208.48,-139.79,Lake Vinewood Dr,Kimble Hill Dr,CHIL
+LVD_A3,  415.16,  884.04,198.87, -81.94,Lake Vinewood Dr,Marlowe Dr,BAYTRE
+[Lake Vinewood Est]
+LVE_A1, -150.01, 1040.74,230.66, 145.39,Lake Vinewood Est,Marlowe Dr,CHIL
+LVE_A2,  -73.80,  878.63,235.64,-169.99,Lake Vinewood Est,,CHIL
+LVE_A3, -112.69,  880.45,235.76,   3.27,Lake Vinewood Est,,CHIL
+LVE_A4, -116.84,  926.87,235.72,   0.70,Lake Vinewood Est,,CHIL
+[Las Lagunas Blvd]
+LLB_A1,  233.55,  445.23,120.87, 128.23,Las Lagunas Blvd,Baytree Canyon Rd,DTVINE
+LLB_A2,  -96.22, -163.02, 52.90, 167.71,Las Lagunas Blvd,,BURTON
+LLB_A3, -260.45, -653.53, 33.12, 172.15,Las Lagunas Blvd,San Andreas Ave,PBOX
+[Lesbos Ln,Short]
+LEL_A1, 1440.46, 3691.85, 33.93,-162.21,Lesbos Ln,Marina Dr,SANDY
+LEL_A2, 1467.12, 3617.11, 34.84,-166.24,Lesbos Ln,Algonquin Blvd,SANDY
+[Liberty St]
+LIS_A1,-1578.78, -496.15, 35.31,  44.71,Liberty St,Boulevard Del Perro,DELPE
+LIS_A2,-1630.16, -452.87, 38.90,  48.26,Liberty St,Cougar Ave,DELPE
+[Lindsay Circus]
+LIC_A1, -734.80, -963.30, 17.72, -79.02,Lindsay Circus,Ginger St,KOREAT
+LIC_A2, -549.11, -962.37, 23.52,-103.80,Lindsay Circus,Calais Ave,KOREAT
+[Little Bighorn Ave]
+LBA_A1,  504.11, -702.74, 24.98, 176.08,Little Bighorn Ave,Integrity Way,TEXTI
+LBA_A2,  533.04,-1413.98, 29.28, 177.91,Little Bighorn Ave,Capital Blvd,LMESA
+LBA_A3,  592.06,-1763.24, 21.54, 167.15,Little Bighorn Ave,Innocence Blvd,RANCHO
+LBA_A4,  405.65,-1947.80, 24.15, 138.28,Little Bighorn Ave,Carson Ave,RANCHO
+[Lolita Ave,Short]
+LOA_A1, 1677.98, 3706.17, 34.03,-150.97,Lolita Ave,Algonquin Blvd,SANDY
+LOA_A2, 1710.37, 3648.86, 35.04,-160.47,Lolita Ave,Panorama Dr,SANDY
+[Los Santos Freeway]
+LSF_A1,  422.07, -566.41, 28.66, -38.99,Los Santos Freeway,Strawberry Ave,DOWNT
+LSF_A2, 1930.97, 2446.08, 54.55, -29.39,Los Santos Freeway,Senora Fwy,DESRT
+[Los Santos Freeway,Sub]
+LSF_B1, 1507.32, 2063.48, 94.77,-178.69,Los Santos Freeway,,DESRT
+LSF_B2, 1619.13, 1153.95, 83.53,-177.64,Los Santos Freeway,,CHIL
+[Los Santos Freeway,Sub]
+LSF_C1, 1736.26, 1514.15, 84.67, -21.33,Los Santos Freeway,,DESRT
+LSF_C2, 1980.28, 1571.76, 76.34,-147.16,Los Santos Freeway,Senora Fwy,WINDF
+[Low Power St]
+LPS_A1,   47.61, -752.41, 31.62, -20.33,Low Power St,Power St,PBOX//tunnel
+LPS_A2,  107.18, -587.40, 31.63, -19.50,Low Power St,Power St,PBOX
+[Macdonald St]
+MAS_A1,   72.85,-1517.01, 29.25,-141.03,Macdonald St,Strawberry Ave,STRAW
+MAS_A2,  504.45,-1891.24, 25.63,-158.23,Macdonald St,Little Bighorn Ave,RANCHO
+[Mad Wayne Thunder Dr]
+MAW_A1, -781.18, -296.62, 36.99, -18.40,Mad Wayne Thunder Dr,Dorset Dr,ROCKF
+MAW_A2, -883.73,  -97.05, 37.89,  22.92,Mad Wayne Thunder Dr,Boulevard Del Perro,ROCKF
+MAW_A3,-1082.38,  250.27, 63.85,   6.14,Mad Wayne Thunder Dr,West Eclipse Blvd,ROCKF
+MAW_A4,-1096.45,  456.52, 77.78,  61.48,Mad Wayne Thunder Dr,Cockingend Dr,CHIL
+MAW_A5,-1432.73,  522.59,118.10,  -1.98,Mad Wayne Thunder Dr,Ace Jones Dr,CHIL
+[Magellan Ave]
+MAA_A1,-1674.27, -747.84, 10.31,-137.50,Magellan Ave,Del Perro Fwy,DELPE
+MAA_A2,-1322.26,-1068.51,  6.99,-148.75,Magellan Ave,Conquistador St,BEACH
+MAA_A3,-1211.70,-1404.86,  4.15,-157.02,Magellan Ave,Aguja St,VESP
+MAA_A4,-1120.63,-1536.18,  4.40,-157.58,Magellan Ave,Bay City Ave,DELSOL
+MAA_A5,-1042.44,-1644.11,  4.51,-133.14,Magellan Ave,Bay City Ave,DELSOL
+[Marathon Ave]
+MNA_A1,-1528.11, -664.40, 28.87, -40.83,Marathon Ave,Bay City Ave,DELPE
+MNA_A2, -887.02, -289.41, 40.35, -56.11,Marathon Ave,Dorset Dr,ROCKF
+[Marina Dr]
+MAD_A1, 2060.49, 3730.62, 33.04,  27.14,Marina Dr,East Joshua Road,SANDY
+MAD_A2, 1912.59, 3947.75, 32.52,  70.62,Marina Dr,,SANDY
+MAD_A3,  328.54, 3575.61, 33.51, 166.19,Marina Dr,,ZANCUDO
+MAD_A4,  359.42, 3566.63, 33.38,   5.97,Marina Dr,,ZANCUDO
+[Marina Dr,Sub]
+MAD_B1,  925.71, 3621.42, 32.48,-179.77,Marina Dr,,ALAMO
+MAD_B2,  924.89, 3537.56, 34.03,-178.04,Marina Dr,Joshua Rd,DESRT
+[Marina Dr,Sub]
+MAD_C1,  407.34, 3590.54, 33.31,-178.85,Marina Dr,,ALAMO
+MAD_C2,  412.22, 3483.79, 34.61,-162.91,Marina Dr,Joshua Rd,ZANCUDO
+[Marlowe Dr]
+MED_A1,-1641.62,  990.29,152.72,-119.77,Marlowe Dr,North Rockford Dr,RGLEN
+MED_A2, -742.06,  977.82,237.87, -79.25,Marlowe Dr,Milton Rd,CHIL
+MED_A3,  -73.48, 1051.87,224.02, -96.95,Marlowe Dr,,CHIL
+MED_A4,  547.21,  814.20,200.29,-134.97,Marlowe Dr,,CHIL
+MED_A5, 1080.86,  543.07, 95.32, 155.37,Marlowe Dr,Senora Rd,CHIL
+[Marlowe Dr,Sub]
+MED_B1, 1002.25,  897.37,209.85, -57.72,Marlowe Dr,,CHIL
+MED_B2,  885.34, 1082.00,287.64,  79.18,Marlowe Dr,,CHIL
+MED_B3,  748.46, 1199.29,326.38,  62.84,Mt Haan Dr,,GALLI
+[Melanoma St]
+MES_A1,-1155.27,-1595.84,  4.35, -53.48,Melanoma St,Goma St,BEACH
+MES_A2,-1055.21,-1523.61,  5.10, -56.91,Melanoma St,Bay City Ave,DELSOL
+[Meringue Ln,Short]
+MEL_A1, 1306.66, 3645.18, 33.16,-163.18,Meringue Ln,Marina Dr,SANDY
+MEL_A2, 1333.79, 3571.94, 34.98,-157.54,Meringue Ln,Algonquin Blvd,SANDY
+[Meteor St]
+MRS_A1,  562.16,  239.75,103.12, 159.26,Meteor St,Clinton Ave,DTVINE
+MRS_A2,  512.14,   96.29, 96.34, 148.38,Meteor St,Vinewood Blvd,DTVINE
+MRS_A3,  314.65, -371.31, 45.25, 147.75,Meteor St,Elgin Ave,ALTA
+[Milton Rd]
+MIR_A1, -699.53,  937.34,235.00,-134.58,Milton Rd,North Sheldon Ave,CHIL
+MIR_A2, -506.28,  620.05,130.47,-168.08,Milton Rd,,CHIL
+MIR_A3, -545.38,  184.76, 71.34, 175.47,Milton Rd,,WVINE
+MIR_A4, -569.85,  -49.16, 42.16, 156.58,Milton Rd,Abe Milton Pkwy,BURTON
+[Miriam Turner Overpass]
+MTO_A1, -484.40,-2287.75, 62.42,-124.22,Miriam Turner Overpass,,AIRP
+MTO_A2,  -39.87,-2596.92, 31.76,-117.25,Miriam Turner Overpass,Plaice Pl,ELYSIAN
+[Mirror Park Blvd]
+MPB_A1,  798.28,  -68.18, 80.59,-128.54,Mirror Park Blvd,Vinewood Park Dr,EAST_V
+MPB_A2, 1210.72, -330.46, 69.13,-174.34,Mirror Park Blvd,,MIRR
+MPB_A3, 1175.29, -828.25, 55.21, 158.72,Mirror Park Blvd,San Andreas Ave,MURRI
+[Mirror Pl]
+MIP_A1,  984.70, -661.79, 57.34, -64.99,Mirror Pl,West Mirror Drive,MIRR
+MIP_A2, 1024.32, -601.09, 58.78, -11.16,Mirror Pl,,MIRR
+MIP_A3, 1031.93, -539.39, 60.58,  18.63,Mirror Pl,Nikola Ave,MIRR
+[Morningwood Blvd]
+MOB_A1,-1244.16, -436.50, 33.45,  39.10,Morningwood Blvd,Marathon Ave,MOVIE
+MOB_A2,-1462.54, -114.29, 50.68,  37.42,Morningwood Blvd,West Eclipse Blvd,MORN
+[Mountain View Dr]
+MOD_A1, 1812.19, 3646.14, 34.28,  25.43,Mountain View Dr,Alhambra Dr,SANDY
+MOD_A2, 1672.53, 3853.72, 34.89,  42.50,Mountain View Dr,Marina Dr,SANDY
+MAD_A3, 1587.49, 3901.94, 32.03,  67.74,Marina Dr,,SANDY
+[Movie Star Way]
+MSW_A1, -856.68, -638.49, 27.98,   6.53,Movie Star Way,San Andreas Ave,KOREAT
+MSW_A2,-1044.62, -263.39, 37.62,  33.76,Movie Star Way,South Boulevard Del Perro,ROCKF
+[Mt Haan Dr]
+MHD_A1,  468.87,  880.13,198.11, -15.39,Mt Haan Dr,Marlowe Dr,Vinewood Hills
+MHD_A2,  804.35, 1278.13,360.35,  93.83,Mt Haan Dr,,Galileo Park
+[Mt Haan Dr,Sub,Slow]
+MHD_B1,  854.99, 1274.17,359.31, 166.02,Mt Haan Dr,,GALLI
+MHD_B2,  645.41, 1220.91,320.33,  95.63,Mt Haan Dr,,GALLI
+MHD_B3,  446.67, 1292.92,272.94,   6.31,Mt Haan Dr,,GALLI
+[Mt Haan Rd]
+MHR_A1, 1067.13,  745.89,155.50, -29.45,Mt Haan Rd,Marlowe Dr,Vinewood Hills
+MHR_A2, 1045.35, 1706.34,162.73,  43.02,Mt Haan Rd,,Grand Senora Desert
+MHR_A3,  146.44, 1655.22,228.97, 119.07,Mt Haan Rd,Baytree Canyon Rd,Vinewood Hills
+[Mt Vinewood Dr]
+MVD_A1, -809.02, 1820.35,166.12, 137.09,Mt Vinewood Dr,Zancudo Barranca,Great Chaparral
+MVD_A2, -725.10,  993.32,238.01,-168.99,Mt Vinewood Dr,Marlowe Dr,Vinewood Hills
+[Mutiny Rd]
+MUR_A1, -589.71,-1585.71, 26.73,  88.45,Mutiny Rd,,LOSPUER
+MUR_A2, -676.02,-1664.74, 25.06, 159.85,Mutiny Rd,South Arsenal St,LOSPUER
+MUR_A3, -660.77,-1789.46, 24.58,-126.06,Mutiny Rd,La Puerta Fwy,LOSPUER
+MUR_A4, -564.73,-1831.27, 23.26,-113.49,Mutiny Rd,,LOSPUER
+MUR_A5, -501.03,-1789.02, 21.46, -27.34,Mutiny Rd,South Arsenal St,LOSPUER
+[New Empire Way,Sub]
+NEW_A1, -823.29,-2217.42, 17.33, 126.00,New Empire Way,Davis Ave,AIRP
+NEW_A2,-1028.13,-2510.74, 20.17, 141.26,New Empire Way,,AIRP
+NEW_A3, -919.89,-2721.28, 20.18, -36.19,New Empire Way,,AIRP
+NEW_A4, -815.60,-2514.90, 20.13,   4.36,New Empire Way,Exceptionalists Way,AIRP
+NEW_A5, -974.25,-2427.36, 20.07, 118.00,New Empire Way,,AIRP
+[New Empire Way,Sub]
+NEW_B1, -826.37,-2242.35, 17.19, 137.78,New Empire Way,Greenwich Pkwy,AIRP
+NEW_B2, -951.37,-2407.23, 13.80, 113.96,New Empire Way,,AIRP
+NEW_B3,-1073.68,-2609.58, 13.82, 154.18,New Empire Way,,AIRP
+NEW_B4, -877.06,-2627.01, 13.75, -30.63,New Empire Way,,AIRP
+NEW_B5, -814.87,-2492.84, 13.76,  13.68,New Empire Way,Exceptionalists Way,AIRP
+NEW_B6, -947.93,-2417.62, 13.81, 114.35,New Empire Way,,AIRP
+[New Empire Way,Sub]
+NEW_C1, -882.58,-2672.76, 20.07, -31.95,New Empire Way,,AIRP
+NEW_C2, -806.26,-2470.00, 13.66,  23.27,New Empire Way,Exceptionalists Way,AIRP
+NEW_C3, -752.51,-2188.87, 15.30, -39.75,New Empire Way,Dutch London St,AIRP
+[New Empire Way,Sub]
+NEW_D1, -891.04,-2437.07, 13.78, 147.86,New Empire Way,,AIRP
+NEW_D2, -969.55,-2495.14, 13.82, 155.95,New Empire Way,,AIRP
+NEW_D3,-1031.89,-2692.06, 13.80, 147.06,New Empire Way,,AIRP
+NEW_D4,-1001.70,-2703.71, 13.81, -29.56,New Empire Way,,AIRP
+NEW_D5, -866.46,-2555.47, 13.81, -33.39,New Empire Way,,AIRP
+NEW_D6, -852.41,-2453.15, 13.66, -29.62,New Empire Way,,AIRP
+[Nikola Ave]
+NIA_A1,  923.93, -592.94, 57.29, -55.58,Nikola Ave,West Mirror Drive,MIRR
+NIA_A2, 1159.22, -515.24, 65.02, -91.44,Nikola Ave,Mirror Park Blvd,MIRR
+NIA_A3, 1260.55, -548.36, 69.00, -97.19,Nikola Ave,East Mirror Dr,MIRR
+[Nikola Pl]
+NIP_A1, 1271.87, -549.00, 68.93,-104.77,Nikola Pl,East Mirror Dr,MIRR
+NIP_A2, 1372.39, -581.06, 74.38,-106.41,Nikola Pl,,MIRR
+[Niland Ave]
+NDA_A1, 1853.76, 3942.02, 33.03,-170.42,Niland Ave,Marina Dr,SANDY
+NDA_A2, 1950.08, 3725.06, 32.34,-148.41,Niland Ave,Alhambra Dr,SANDY
+[Normandy Dr]
+NOD_A1, -746.74,  827.40,213.89,-156.33,Normandy Dr,North Sheldon Ave,CHIL
+NOD_A2, -628.46,  751.26,178.93,  62.68,Normandy Dr,,CHIL
+NOD_A3, -617.15,  685.01,149.78,-105.17,Normandy Dr,,CHIL
+NOD_A4, -535.89,  663.35,142.21,-123.84,Normandy Dr,Milton Rd,CHIL
+[North Archer Ave]
+NAA_A1, -125.75,   87.71, 71.05, -20.07,North Archer Ave,Spanish Ave,WVINE
+NAA_A2, -105.18,  236.58, 98.26,  13.16,North Archer Ave,Eclipse Blvd,WVINE
+[North Calafia Way]
+NCW_A1, 1740.40, 4578.74, 39.63, 120.91,North Calafia Way,Grapeseed Main St,GRAPES
+NCW_A2,  728.83, 4251.42, 55.55,  98.44,North Calafia Way,Calafia Rd,ALAMO
+NCW_A3, -136.43, 4277.08, 44.85, 130.30,North Calafia Way,,CALAFB
+NCW_A4, -200.67, 4216.43, 44.70, 144.29,North Calafia Way,Calafia Rd,CALAFB
+[North Calafia Way,Sub]
+NCW_B1, 1518.59, 4556.73, 52.64, 114.89,North Calafia Way,Calafia Rd,MTCHIL
+NCW_B2, 1354.30, 4498.54, 57.56, 130.57,North Calafia Way,,MTCHIL
+[North Calafia Way,Sub]
+NCW_C1, 1034.23, 4456.14, 52.29,  89.04,North Calafia Way,,MTCHIL
+NCW_C2,  862.15, 4492.00, 53.26,  65.81,North Calafia Way,,MTCHIL
+[North Calafia Way,Sub]
+NCW_D1,  827.66, 4232.35, 52.34,  89.12,North Calafia Way,Calafia Rd,ALAMO
+NCW_D2,  593.40, 4235.67, 53.79,  54.71,North Calafia Way,,ALAMO
+[North Calafia Way,Sub,Slow]
+NCW_E1, 1449.85, 4489.93, 50.50, 150.74,Calafia Rd,North Calafia Way,MTCHIL
+NCW_E2, 1324.72, 4367.52, 42.76, 111.78,North Calafia Way,,GALFISH
+NCW_E3, 1317.11, 4354.03, 40.79, 165.40,North Calafia Way,,GALFISH
+NCW_E4, 1325.62, 4333.83, 37.91, -93.92,North Calafia Way,,GALFISH
+NCW_E5, 1412.93, 4393.69, 43.41, -21.44,Calafia Rd,,MTCHIL
+[North Conker Ave]
+NOA_A1,  669.76,  346.65,110.73,  22.91,North Conker Ave,Fenwell Pl,DTVINE
+NOA_A2,  278.66,  615.40,154.73,  47.13,North Conker Ave,Baytree Canyon Rd,CHIL
+[North Rockford Dr]
+NRD_A1,-1651.07,  997.09,152.78, 159.58,North Rockford Dr,Tongva Dr,RGLEN
+//NRD_A2,-1759.92,804.96,140.64,136.92,North Rockford Dr,Banham Canyon Dr,RGLEN
+NRD_A3,-1582.51, -167.53, 55.56,-141.19,North Rockford Dr,West Eclipse Blvd,MORN
+NRD_A4,-1097.94, -751.02, 19.34,-140.08,North Rockford Dr,San Andreas Ave,VCANA
+[North Sheldon Ave]
+NSA_A1, -711.32,  944.85,236.11,-172.31,North Sheldon Ave,Milton Rd,CHIL
+NSA_A2,-1018.16,  794.61,170.41, 101.58,North Sheldon Ave,Hillcrest Ave,CHIL
+NSA_A3,-1436.46,  535.43,120.18, 174.61,North Sheldon Ave,Ace Jones Dr,CHIL
+[Nowhere Rd,Slow]
+NOR_A1, 2036.06, 3310.03, 45.96, -14.30,Nowhere Rd,Smoke Tree Rd,Grand Senora Desert
+NOR_A2, 2056.72, 3426.72, 44.29,  -9.06,Nowhere Rd,,Grand Senora Desert
+NOR_A3, 2034.92, 3443.17, 43.98, 159.31,Nowhere Rd,,Grand Senora Desert
+NOR_A4, 2051.22, 3388.55, 45.38,-161.50,Nowhere Rd,,Grand Senora Desert
+[Occupation Ave]
+OCA_A1,  298.35, -371.77, 45.19,  63.31,Occupation Ave,Elgin Ave,ALTA
+OCA_A2,  -90.18, -226.22, 44.69,  69.28,Occupation Ave,Las Lagunas Blvd,BURTON
+[Olympic Fwy]
+OLF_A1, -426.87,-1017.93, 37.13,-179.74,Olympic Fwy,La Puerta Fwy,KOREAT
+OLF_A2, -352.92,-1225.57, 49.80, -91.85,Olympic Fwy,La Puerta Fwy,STRAW
+OLF_A3, 1198.69,-1178.28, 51.51, -78.81,Olympic Fwy,Palomino Fwy,MURRI
+[O'Neil Way]
+ONW_A1, 2177.40, 4914.10, 40.79, -48.52,O'Neil Way,Joad Ln,Grapeseed
+ONW_A2, 2398.68, 5145.42, 47.41, -44.11,O'Neil Way,Union Rd,Grapeseed
+[Orchardville Ave]
+ORA_A1,  902.21,-2449.03, 28.50,  -4.88,Orchardville Ave,Hanger Way,CYPRE
+ORA_A2,  959.76,-1776.19, 31.16,  -3.88,Orchardville Ave,Innocence Blvd,SanAnd
+[Paleto Blvd,Slow]
+PAB_A1,  130.58, 6666.09, 31.88, 134.62,Paleto Blvd,,PALETO
+PAB_A2,   65.38, 6605.31, 31.39, 133.21,Paleto Blvd,Procopio Dr,PALETO
+PAB_A3, -416.02, 5972.38, 31.58, 164.23,Paleto Blvd,Great Ocean Hwy,PALFOR
+PAB_A4, -443.21, 5969.54, 31.48,  83.04,Paleto Blvd,Great Ocean Hwy,PALFOR
+PAB_A5, -509.61, 5894.97, 32.90, 141.73,Paleto Blvd,Great Ocean Hwy,PALFOR
+PAB_A6, -629.38, 5840.02, 23.25, 161.71,Paleto Blvd,,PALFOR
+[Palomino Ave]
+PAA_A1,-1289.29,-1399.92,  4.53, -76.15,Palomino Ave,,BEACH
+PAA_A2, -855.17,-1173.91,  5.58, -62.40,Palomino Ave,,VCANA
+PAA_A3, -630.20, -912.73, 24.20,  -2.27,Palomino Ave,,KOREAT
+PAA_A4, -624.96, -626.67, 32.35,  -5.91,Palomino Ave,San Andreas Ave,KOREAT
+PAA_A5, -625.56, -389.90, 34.81,  10.39,Palomino Ave,Dorset Dr,ROCKF
+[Palomino Fwy]
+PAF_A1, 1201.00,-1185.04, 51.39, -74.09,Palomino Fwy,Olympic Fwy,MURRI
+PAF_A2, 2031.36, 1550.29, 75.39,  19.67,Palomino Fwy,Senora Fwy,WINDF
+[Panorama Dr]
+PAD_A1, 1549.34, 3748.14, 34.51,-151.62,Panorama Dr,Marina Dr,SANDY
+PAD_A2, 2195.75, 3017.44, 45.35,-105.18,Panorama Dr,Route 68,DESRT
+[Panorama Dr,Sub]
+PAD_B1, 1972.57, 3113.46, 46.89, 146.84,Panorama Dr,,DESRT
+PAD_B2, 1929.86, 3039.94, 46.10, 154.12,Panorama Dr,,DESRT
+PAD_B3, 1932.31, 2975.49, 45.71,-167.08,Panorama Dr,Route 68,DESRT
+[Peaceful St]
+PES_A1, -280.38, -844.11, 31.70, -23.74,Peaceful St,Vespucci Blvd,PBOX
+PES_A2, -223.50, -691.54, 33.43, -16.76,Peaceful St,San Andreas Ave,PBOX
+[Perth St]
+PHS_A1,-1426.32, -317.25, 44.26, -50.04,Perth St,North Rockford Dr,MORN
+PHS_A2,-1368.80, -268.25, 42.37, -72.39,Perth St,Morningwood Blvd,MORN
+[Picture Perfect Drive]
+PPD_A1, -562.55,  518.00,105.96, 105.63,Picture Perfect Drive,Milton Rd,CHIL
+PPD_A2, -906.79,  434.48, 84.26, 104.40,Picture Perfect Drive,Dunstable Ln,ROCKF
+PPD_A3,-1415.70,  343.00, 62.79, 144.34,Picture Perfect Drive,,RICHM
+PPD_A4,-1778.69,   95.74, 70.20,  75.44,Picture Perfect Drive,North Rockford Dr,RICHM
+[Plaice Pl]
+PLP_A1,  254.73,-2537.39,  5.85, 101.74,Plaice Pl,Chum St,ELYSIAN
+PLP_A2, -178.08,-2620.21,  6.00,  89.23,Plaice Pl,Chupacabra St,ELYSIAN
+PLP_A3, -381.95,-2762.48,  6.00, 132.86,Plaice Pl,,ELYSIAN
+PLP_A4, -421.34,-2841.91,  6.00, 138.12,Plaice Pl,,ELYSIAN
+PLP_A5, -517.41,-2846.30,  6.00, -51.64,Plaice Pl,,ELYSIAN
+PLP_A6, -402.87,-2777.10,  6.00, -88.73,Plaice Pl,,ELYSIAN
+[Playa Vista]
+PLV_A1,-1779.62, -445.47, 41.86,  91.93,Playa Vista,Bay City Ave,DELPE
+PLV_A2,-1924.46, -195.66, 35.06,  12.87,Playa Vista,West Eclipse Blvd,PBLUFF
+[Playa Vista,Sub]
+PLV_B1,-1818.25, -425.68, 43.49, -40.33,Playa Vista,,DELPE
+PLV_B2,-1770.86, -361.21, 45.45, -33.63,Playa Vista,West Eclipse Blvd,PBLUFF
+[Popular St]
+POS_A1,  607.92, -384.87, 43.55,-114.99,Popular St,Los Santos Freeway,EAST_V
+POS_A2,  777.04, -948.84, 25.94,-178.60,Popular St,,LMESA
+POS_A3,  781.27,-1925.75, 29.28, 167.43,Popular St,,CYPRE
+POS_A4,  726.41,-2458.66, 19.89, 171.39,Popular St,Chum St,CYPRE
+[Portola Dr]
+POD_A1, -861.57,  205.60, 73.72, 167.53,Portola Dr,West Eclipse Blvd,ROCKF
+POD_A2, -645.20, -341.02, 34.82,-138.63,Portola Dr,Carcer Way,ROCKF
+[Portola Dr,Sub]
+POD_B1, -673.82, -305.90, 35.47,  79.80,Portola Dr,,ROCKF
+POD_B2, -745.12, -252.49, 36.93,  23.59,Portola Dr,Eastbourne Way,ROCKF
+[Power St]
+PRS_A1,  247.14,  437.89,120.69,-123.84,Power St,Alta St,DTVINE
+PRS_A2,  425.13,  342.49,105.40,-173.85,Power St,,DTVINE
+PRS_A3,   -8.06, -845.30, 37.17, 158.92,Power St,Low Power St,PBOX
+PRS_A4, -116.83,-1347.27, 29.31, 152.73,Power St,Innocence Blvd,STRAW
+[Procopio Dr]
+PRD_A1, -380.61, 6166.07, 31.19,  45.75,Procopio Dr,Paleto Blvd,PALETO
+PRD_A2, -221.50, 6410.69, 31.47, -59.60,Procopio Dr,,Paleto Bay
+PRD_A3,    3.31, 6637.50, 31.40, -75.90,Procopio Dr,,Paleto Bay
+PRD_A4,  142.78, 6535.33, 31.74,-137.16,Procopio Dr,Great Ocean Hwy,Paleto Bay
+[Procopio Promenade]
+PRP_A1, -775.82, 5513.29, 34.73,  28.01,Procopio Promenade,Great Ocean Hwy,Paleto Forest
+PRP_A2, -176.23, 6563.15, 11.29, -52.92,Procopio Promenade,,Paleto Bay
+[Procopio Promenade,Sub]
+PRP_B1, -600.76, 6084.87,  8.55,-100.79,Procopio Promenade,,PALFOR
+PRP_B2, -443.07, 6068.16, 31.31,-100.82,Procopio Promenade,Paleto Blvd,PALETO
+[Prosperity St]
+PYS_A1, -954.54,-1204.24,  5.18,  26.86,Prosperity St,Palomino Ave,VCANA
+PYS_A2,-1159.41, -857.53, 14.10,  39.74,Prosperity St,San Andreas Ave,VCANA
+[Prosperity St,Sub]
+PYS_B1,-1379.88, -547.75, 30.11,  34.29,Prosperity St,Marathon Ave,DELPE
+PYS_B2,-1598.79, -302.64, 50.65,  48.65,Prosperity St,West Eclipse Blvd,PBLUFF
+[Pyrite Ave]
+PYA_A1, -169.25, 6349.98, 31.41,-142.63,Pyrite Ave,Paleto Blvd,Paleto Bay
+PYA_A2, -105.61, 6286.99, 31.33,-132.14,Pyrite Ave,Great Ocean Hwy,Paleto Bay
+[Red Desert Ave]
+RDA_A1,-1600.28, -951.50, 13.02, -39.56,Red Desert Ave,,DELBE
+RDA_A2,-1235.23, -603.08, 27.13, -54.71,Red Desert Ave,North Rockford Dr,MOVIE
+[Richman St]
+RIS_A1,-1825.77,  140.73, 77.43, -21.83,Richman St,North Rockford Dr,RICHM
+RIS_A2,-1497.66,  231.74, 60.42,-106.25,Richman St,Picture Perfect Drive,RICHM
+[Rockford Dr]
+ROD_A1, -759.41,  202.25, 75.66,-177.84,Rockford Dr,West Eclipse Blvd,ROCKF
+ROD_A2, -567.44, -288.76, 35.08,-139.19,Rockford Dr,Carcer Way,ROCKF
+[Route 68]
+RSE_A1,-2709.49, 2277.49, 19.23, -90.77,Route 68,Great Ocean Hwy,Lago Zancudo
+RSE_A2,-1442.80, 2405.59, 27.00, -77.72,Route 68,,LAGO
+RSE_A3, 2352.91, 2965.30, 48.72,-127.55,Route 68,Senora Fwy,Grand Senora Desert
+[Route 68,Sub]
+RSE_B1,-2641.39, 2298.47, 24.11, -64.36,Route 68,,LAGO
+RSE_B2,-2449.11, 2301.73, 31.26,-120.43,Route 68,,LAGO
+[Route 68,Sub]
+RSE_C1, 2100.16, 2993.92, 45.07,-109.91,Route 68,,DESRT
+RSE_C2, 1900.93, 2609.68, 45.72,  90.98,Route 68,,DESRT
+[Route 68 Approach]
+RSA_A1,  -57.06, 2823.49, 54.44, -90.63,Route 68 Approach,Route 68,Grand Senora Desert
+RSA_A2,  221.22, 2973.79, 42.57, -28.67,Route 68 Approach,Joshua Rd,Grand Senora Desert
+[Roy Lowenstein Blvd]
+RLB_A1,  164.89,-2025.99, 18.26,  -9.77,Roy Lowenstein Blvd,Dutch London St,RANCHO
+RLB_A2,  550.21,-1554.20, 29.28, -31.18,Roy Lowenstein Blvd,Little Bighorn Ave,RANCHO
+[Rub St]
+RUSA50,-1007.60,-1561.67,  5.24, -57.71,Rub St,Bay City Ave,DELSOL
+RUSA51, -950.27,-1536.84,  5.06, -62.78,Rub St,,DELSOL
+[Runway1]
+TMP_A1,-1823.95,-2814.50, 13.92, 150.65,Runway1,,AIRP
+PLP_A2, -843.17,-3376.90, 13.92, -30.37,Plaice Pl,,AIRP
+TMP_A3,-1053.00,-2958.38, 13.94, -29.33,Runway1,,AIRP
+NEW_A4, -935.89,-2756.79, 13.95, -28.92,New Empire Way,,AIRP
+[Runway1,Sub]
+NEW_A2, -988.20,-2422.28, 13.75,  56.67,New Empire Way,Runway1,AIRP//2
+TMP_A3,-1149.62,-2400.60, 13.92, -30.39,Runway1,,AIRP
+TMP_A4,-1177.57,-2282.84, 13.92, 149.74,Runway1,,AIRP
+TMP_A5,-1177.61,-2408.40, 13.92,  59.28,Runway1,,AIRP
+TMP_A6,-1374.73,-2460.00, 13.93, 149.23,Runway1,,AIRP
+TMP_A7,-1522.24,-2744.97, 13.92,-157.21,Runway1,,AIRP
+NEW_A2,-1032.14,-2903.14, 13.94,-118.63,New Empire Way,,AIRP
+[Sam Austin Dr]
+SAD_A1,-1440.15,    6.94, 52.36,  96.19,Sam Austin Dr,West Eclipse Blvd,RICHM
+SAD_A2,-1546.60,  -31.94, 57.88,  87.60,Sam Austin Dr,,RICHM
+[San Andreas Ave]
+SAA_A1,-1271.32, -912.74, 11.16, -73.41,San Andreas Ave,Bay City Ave,VCANA
+SAA_A2, -284.96, -667.29, 33.18, -93.85,San Andreas Ave,,DOWNT
+SAA_A3, 1148.34, -853.10, 54.09,-123.86,San Andreas Ave,El Rancho Blvd,MURRI
+[San Vitus Blvd]
+SVB_A1, -228.18,  248.61, 92.03, 177.20,San Vitus Blvd,Eclipse Blvd,WVINE
+SVB_A2, -268.70, -380.37, 30.22,-153.29,San Vitus Blvd,Dorset Dr,ROCKF
+[Sandcastle Way]
+SAW_A1,-1453.93, -970.44,  7.04, -34.17,Sandcastle Way,,DELBE
+SAW_A2,-1343.68, -854.40, 16.74, -73.10,Sandcastle Way,Bay City Ave,DELPE
+[Seaview Rd]
+SER_A1, 2505.66, 4137.68, 38.55,  61.13,Seaview Rd,East Joshua Road,Grapeseed
+SER_A2, 1774.23, 4574.52, 37.75,  80.34,Seaview Rd,North Calafia Way,Grapeseed
+[Senora Fwy]
+SEF_A1, 2024.16, 1552.78, 75.33,  20.77,Senora Fwy,Los Santos Freeway,WINDF
+SEF_A2, 2196.15, 2719.62, 46.86, -47.31,Senora Fwy,,DESRT
+SEF_A3, 1647.50, 6398.17, 29.39,  70.05,Senora Fwy,,MTCHIL
+SEF_A4, 1574.65, 6427.76, 24.76,  68.17,Senora Fwy,Great Ocean Hwy,MTCHIL
+[Senora Rd]
+SAR_A1, 1029.89,  489.87, 96.27, -45.26,Senora Rd,Vinewood Park Dr,CHIL//abranch
+SAR_A2,  653.78, 2309.39, 50.92,  60.82,Senora Rd,,DESRT
+SAR_A3,  379.96, 2498.93, 45.25,  42.98,Senora Rd,,DESRT
+SAR_A4,  372.92, 2505.96, 45.07,  41.08,Senora Rd,,HARMO
+SAR_A5,  290.29, 2633.64, 44.64,  17.70,Senora Rd,Route 68,HARMO
+[Senora Way]
+SEW_A1, 2320.91, 1145.78, 67.48, -75.75,Senora Way,Palomino Fwy,TATAMO
+SEW_A2, 2428.52, 1237.34, 55.87, -40.92,Senora Way,Palomino Fwy,Ron Alternates Wind Farm
+SEW_A3, 2542.99, 2016.46, 20.02,  -3.40,Senora Way,,Ron Alternates Wind Farm
+SEW_A4, 2602.26, 2547.81, 31.95,  15.27,Senora Way,,Davis Quartz
+SEF_A5, 2443.23, 2869.85, 49.08,  37.24,Senora Fwy,Route 68,DESRT
+//[Senora Way]//caishichang
+[Shank St]
+SHS_A1, -657.59,-1357.88, 10.62,  83.61,Shank St,Dutch London St,DELSOL
+SHS_A2, -687.07,-1425.34,  5.00, -98.34,Shank St,Dutch London St,DELSOL
+[Shank St,Sub,Slow]
+SHS_B1, -714.61,-1435.81,  4.98,  46.11,Shank St,,LOSPUER
+SHS_B2, -740.71,-1443.81,  4.98, 133.61,Shank St,,LOSPUER
+SHS_B3, -755.05,-1475.80,  4.98,-135.39,Shank St,,LOSPUER
+SHS_B4, -726.88,-1464.53,  4.98, -44.39,Shank St,Greenwich Pkwy,LOSPUER
+SHS_B5, -729.81,-1431.81,  4.97, 134.23,Shank St,,LOSPUER
+[Signal St]
+SIS_A1,  350.06,-2181.26, 13.55,-139.04,Signal St,Dutch London St,BANNING
+SIS_A2,  328.43,-2497.55,  5.44,-162.45,Signal St,Chum St,ELYSIAN
+[Signal St,Sub]
+SIS_B1,  190.62,-2838.12, 11.03, 173.90,Signal St,,ELYSIAN
+SIS_B2,  175.17,-3196.28,  5.61, 172.26,Signal St,,ELYSIAN
+[Signal St,Sub]
+SIG_A1,  295.23,-2853.26,  6.03,-173.26,Signal St,,ELYSIAN//??
+SIG_A2,  293.57,-2990.25,  5.94, 178.92,Signal St,,ELYSIAN
+SIG_A3,  293.31,-3123.54,  5.82, 166.34,Voodoo Place,,ELYSIAN
+[Sinner St]
+SRS_A1,  401.38,-1120.65, 29.43,  -3.39,Sinner St,Adam's Apple Blvd,SKID
+SRS_A2,  409.24, -683.64, 29.28, -12.74,Sinner St,Integrity Way,TEXTI
+[Sinner St,Sub]
+SRS_B1,  406.90,-1070.01, 29.34, -91.38,Sinner St,Vespucci Blvd,SKID
+SRS_B2,  480.26,-1069.92, 29.19, -91.40,Sinner St,Little Bighorn Ave,SKID
+[Sinners Passage]
+SIP_A1,  415.44, -827.13, 29.30, -91.96,Sinners Passage,Sinner St,TEXTI
+SIP_A2,  494.00, -828.24, 24.86,-105.04,Sinners Passage,Little Bighorn Ave,TEXTI
+[Smoke Tree Rd]
+STR_A1, 1877.99, 3224.31, 45.37, -50.83,Smoke Tree Rd,Panorama Dr,Grand Senora Desert
+STR_A2, 2384.42, 3292.29, 47.57, -50.09,Smoke Tree Rd,,Grand Senora Desert
+[South Arsenal St]
+SAS_A1, -421.35,-1764.29, 20.52,  99.64,South Arsenal St,Alta St,LOSPUER
+SAS_A2, -550.79,-1746.82, 21.85,  54.07,South Arsenal St,La Puerta Fwy,LOSPUER
+SAS_A3, -708.99,-1608.45, 22.63,  37.00,South Arsenal St,Dutch London St,LOSPUER
+[South Boulevard Del Perro]
+SOB_A1,-1165.67, -295.92, 37.67, -79.04,South Boulevard Del Perro,Boulevard Del Perro,ROCKF
+SOB_A2, -903.96, -184.43, 37.79, -67.43,South Boulevard Del Perro,,ROCKF
+SOB_A3, -627.40,  -59.27, 41.49, -97.64,South Boulevard Del Perro,,ROCKF
+SOB_A4, -575.54,  -71.88, 42.03,-114.99,South Boulevard Del Perro,Abe Milton Pkwy,BURTON
+[South Mo Milton Dr]
+SOM_A1,-1244.55,  471.23, 92.78,   2.15,South Mo Milton Dr,Mad Wayne Thunder Dr,CHIL
+SOM_A2,-1019.16,  595.98,103.02, -96.19,South Mo Milton Dr,,CHIL
+SOM_A3, -858.15,  389.61, 87.49, 178.91,South Mo Milton Dr,Dunstable Ln,ROCKF
+SOM_A4, -748.45,  288.21, 85.38, -99.50,South Mo Milton Dr,,ROCKF
+SOM_A5, -667.85,  280.02, 81.42,-155.78,South Mo Milton Dr,West Eclipse Blvd,WVINE
+[South Rockford Dr]
+SRD_A1,-1076.11, -776.38, 19.30,-138.64,South Rockford Dr,San Andreas Ave,VCANA
+SRD_A2, -730.07,-1193.67, 10.61,-138.66,South Rockford Dr,,DELSOL
+SRD_A3, -654.74,-1352.01, 10.59,-179.26,South Rockford Dr,Dutch London St,DELSOL
+[South Shambles St]
+SSS_A1, 1034.57,-2457.08, 28.44,  -9.64,South Shambles St,Hanger Way,CYPRE
+SSS_A2, 1068.04,-2090.44, 33.42,  -8.37,South Shambles St,El Rancho Blvd,EBURO
+[Spanish Ave]
+SPA_A1,  497.24, -151.80, 56.54,  84.32,Spanish Ave,Elgin Ave,HAWICK
+SPA_A2, -188.35,  118.33, 69.88,  66.09,Spanish Ave,San Vitus Blvd,WVINE
+SPA_A3, -983.24,   82.01, 51.84, 117.31,Spanish Ave,Mad Wayne Thunder Dr,ROCKF
+[Steele Way]
+STW_A1, -987.54,  250.57, 67.90, 175.44,Steele Way,West Eclipse Blvd,ROCKF
+STW_A2, -936.35,  124.21, 56.79,-129.34,Steele Way,Spanish Ave,ROCKF
+[Steele Way,Sub]
+STW_B1, -982.43,  173.07, 63.67,-103.47,Steele Way,,ROCKF
+STW_B2, -926.31,  177.32, 66.62, -58.11,Steele Way,,ROCKF
+[Steele Way,Sub]
+STW_C1,-1008.65,  198.84, 66.26,  89.82,Steele Way,,ROCKF
+STW_C2,-1042.17,  199.17, 62.56,  87.06,Steele Way,Mad Wayne Thunder Dr,ROCKF
+[Strangeways Dr]
+STD_A1, -646.28,    8.98, 40.06,  13.87,Strangeways Dr,Boulevard Del Perro,ROCKF
+STD_A2, -650.70,  249.71, 81.37,  13.85,Strangeways Dr,Eclipse Blvd,WVINE
+[Strawberry Ave]
+STA_A1, -152.43,-1759.56, 30.03, -40.81,Strawberry Ave,Davis Ave,CHAMH
+STA_A2,  421.30, -559.24, 28.74, -35.98,Strawberry Ave,Los Santos Freeway,DOWNT
+[Supply St]
+SUS_A1,  806.40,-1089.30, 28.69, -91.06,Supply St,Popular St,LMESA
+SUS_A2,  978.12,-1070.97, 40.03, -22.58,Supply St,,MURRI
+SUS_A3,  997.18,-1006.24, 41.97,   9.57,Supply St,Vespucci Blvd,MURRI
+SUS_A4,  945.23, -861.57, 43.81,  24.42,Supply St,San Andreas Ave,MURRI
+SUS_A5,  786.14, -689.47, 28.66,  66.42,Supply St,Popular St,LMESA
+[Sustancia Rd]
+SUR_A1, 2429.43, -479.26, 71.01,-139.71,Sustancia Rd,Olympic Fwy,PALHIGH
+SUR_A2, 2280.28, -705.73, 65.36, 118.83,Sustancia Rd,,PALHIGH
+SUR_A3, 1886.31, -983.36, 79.15, 136.60,Sustancia Rd,,EBURO
+SUR_A4, 1470.58,-1503.07, 65.26, 127.68,Sustancia Rd,Fudge Ln,EBURO
+SUR_A5, 1340.46,-1597.97, 52.12, 129.97,Sustancia Rd,El Rancho Blvd,EBURO
+[Swiss St]
+SWS_A1,  123.94, -581.48, 43.72,-111.91,Swiss St,Integrity Way,PBOX
+SWS_A2,  228.94, -620.89, 40.93,-112.78,Swiss St,Integrity Way,PBOX
+[Tackle St]
+TAS_A1, -704.88,-1239.64, 10.58, 119.13,Tackle St,South Rockford Dr,DELSOL
+TAS_A2, -830.33,-1276.56,  5.00, 139.65,Tackle St,,DELSOL
+TAS_A3, -813.30,-1328.69,  5.00,-108.19,Tackle St,,DELSOL
+TAS_A4, -763.65,-1296.16,  5.00, -57.66,Tackle St,,DELSOL
+[Tangerine St]
+TES_A1,  900.75, -231.51, 69.42, -35.39,Tangerine St,Bridge St,EAST_V
+TES_A2,  941.78, -166.85, 74.43, -34.68,Tangerine St,Mirror Park Blvd,EAST_V
+[Tongva Dr]
+TOD_A1,-1643.40, 1003.19,152.93, -18.58,Tongva Dr,Marlowe Dr,Richman Glen
+TOD_A2,-1456.54, 2146.58, 54.62, -98.03,Tongva Dr,,Tongva Valley
+TOD_A3,-1342.51, 2439.85, 27.21,  15.15,Tongva Dr,Route 68,Lago Zancudo
+[Tower Way]
+TOW_A1, 1070.90,-1763.11, 35.61,-156.42,Tower Way,Innocence Blvd,SanAnd
+TOW_A2, 1104.21,-1850.27, 37.29,-156.56,Tower Way,Labor Pl,SanAnd
+[Tug St]
+TUS_A1,-1066.98,-1479.63,  5.11, -61.67,Tug St,Bay City Ave,DELSOL
+TUS_A2, -997.03,-1448.98,  5.08, -71.63,Tug St,,DELSOL
+[Union Rd]
+UNR_A1, 2818.13, 4413.17, 48.95, -74.99,Union Rd,Senora Fwy,San Chianski Mountain Range
+UNR_A2, 2972.53, 4671.05, 52.18,  10.32,Union Rd,,San Chianski Mountain Range
+UNR_A3, 2789.70, 4933.22, 33.67,  39.24,Union Rd,Grapeseed Ave,San Chianski Mountain Range
+UNR_A4, 2784.44, 4965.83, 33.67,  58.33,Union Rd,Grapeseed Ave,San Chianski Mountain Range
+UNR_A5, 2418.33, 5145.35, 46.89,  52.11,Union Rd,O'Neil Way,Grapeseed
+UNR_A6, 2171.17, 5225.70, 60.45,  81.07,Union Rd,,Grapeseed
+UNR_A7, 1971.27, 5139.72, 43.16, 138.73,Union Rd,Grapeseed Main St,Grapeseed
+[Union Rd,Sub]
+UNR_B1, 2473.03, 5119.62, 46.45,   2.24,Union Rd,,GRAPES//mountain
+UNR_B2, 2401.21, 5310.49, 93.92,  38.90,Union Rd,,MTCHIL
+[Utopia Gardens]
+UTG_A1, 1293.07, -715.92, 64.74,-107.79,Utopia Gardens,East Mirror Dr,MIRR
+UTG_A2, 1382.19, -743.42, 67.22,-108.89,Utopia Gardens,,MIRR
+[Vespucci Blvd]
+VEB_A1, 1144.58, -945.32, 48.62, 104.43,Vespucci Blvd,El Rancho Blvd,MURRI
+VEB_A2,-1082.04, -902.48,  3.69, 118.21,Vespucci Blvd,,VCANA
+VEB_A3,-1374.60,-1011.67,  7.26, 122.48,Vespucci Blvd,Magellan Ave,BEACH
+VEB_A4,-1399.67,-1029.51,  4.33, 124.79,Vespucci Blvd,,BEACH
+[Vespucci Blvd,Sub]
+VEB_B1,   35.15, -955.40, 29.25, -20.17,Vespucci Blvd,,PBOX
+VEB_B2,   86.43, -826.06, 31.07, -20.50,Vespucci Blvd,San Andreas Ave,PBOX
+[Vinewood Blvd]
+VIB_A1,  788.24,  -41.97, 80.64,  54.22,Vinewood Blvd,Vinewood Park Dr,EAST_V
+VIB_A2,   44.93,  259.46,109.54,  76.45,Vinewood Blvd,Las Lagunas Blvd,WVINE
+[Vinewood Park Dr]
+VPD_A1,  811.06,  -38.44, 80.58, -42.71,Vinewood Park Dr,Mirror Park Blvd,EAST_V
+VPD_A2, 1165.77,  331.55, 91.90,   3.96,Vinewood Park Dr,,HORS
+VPD_A3,  909.52,  531.00,121.57,  81.56,Vinewood Park Dr,Fenwell Pl,CHIL
+[Vitus St]
+VIS_A1,-1326.55,-1297.14,  4.87, -72.77,Vitus St,,BEACH
+VIS_A2,-1210.55,-1255.35,  6.98, -69.66,Vitus St,Bay City Ave,VCANA
+[Voodoo Place]
+VOP_A1,  203.02,-3045.41,  5.81,-135.15,Voodoo Place,Signal St,ELYSIAN
+VOP_A2,  300.73,-3193.40,  5.68, 177.05,Voodoo Place,,ELYSIAN
+VOP_A3,  228.27,-3327.56,  5.80,  80.65,Voodoo Place,,ELYSIAN
+VOP_A4,  180.89,-3199.84,  5.62,  -6.14,Voodoo Place,,ELYSIAN
+[West Eclipse Blvd]
+WEB_A1, -671.74,  263.05, 81.48, 111.07,West Eclipse Blvd,South Mo Milton Dr,WVINE
+WEB_A2,-1065.05,  275.03, 63.82,  87.82,West Eclipse Blvd,Mad Wayne Thunder Dr,ROCKF
+WEB_A3,-1499.27, -116.49, 51.55, 126.50,West Eclipse Blvd,,MORN
+WEB_A4,-2170.94, -339.33, 13.17, 171.50,West Eclipse Blvd,Del Perro Fwy,PBLUFF
+[West Galileo Ave]
+WGA_A1, -729.85, 1153.18,262.88, -43.68,West Galileo Ave,Mt Vinewood Dr,Vinewood Hills
+WGA_A2, -463.55, 1361.47,302.06, -55.67,West Galileo Ave,East Galileo Ave,CHIL
+[West Mirror Drive]
+WMD_A1, 1179.45, -756.77, 57.86,  80.82,West Mirror Drive,Mirror Park Blvd,MIRR
+WMD_A2,  985.41, -673.31, 57.45,  11.58,West Mirror Drive,Mirror Pl,MIRR
+WMD_A3,  909.26, -509.97, 58.29, -71.05,West Mirror Drive,,MIRR
+WMD_A4, 1192.09, -371.97, 68.94,-105.78,West Mirror Drive,Mirror Park Blvd,MIRR
+[Whispymound Dr]
+WHD_A1, -128.03,  524.43,142.83, -47.04,Whispymound Dr,Wild Oats Dr,CHIL
+WHD_A2,  174.94,  577.98,184.79, -79.53,Whispymound Dr,,CHIL
+WHD_A3,  288.83,  751.24,183.60, -36.21,Whispymound Dr,Baytree Canyon Rd,CHIL
+[Wild Oats Dr]
+WOD_A1, -340.17,  481.63,111.82, -66.64,Wild Oats Dr,Didion Dr,CHIL
+WOD_A2,  -55.42,  494.94,144.63,-110.42,Wild Oats Dr,Whispymound Dr,CHIL
+WOD_A3,  259.94,  537.52,140.51, -74.85,Wild Oats Dr,Baytree Canyon Rd,CHIL
+[York St]
+YOS_A1,  822.90, -186.51, 72.75, -35.25,York St,Bridge St,EAST_V
+YOS_A2,  869.38, -113.11, 79.42, -35.21,York St,Mirror Park Blvd,EAST_V
+[Zancudo Ave]
+ZAA_A1, 2143.77, 3894.76, 33.17, 124.76,Zancudo Ave,,SANDY
+ZAA_A2, 1647.00, 3610.38, 35.44, 115.25,Zancudo Ave,Panorama Dr,SANDY
+[Zancudo Barranca]
+ZAB_A1,-1315.68, 2151.66, 54.51, -79.59,Zancudo Barranca,Tongva Dr,Tongva Valley
+ZAB_A2, -809.74, 1828.04,166.12,-136.37,Zancudo Barranca,Mt Vinewood Dr,Great Chaparral
+[Zancudo Grande Valley]
+ZGV_A1, -797.51, 1825.26,166.12, -57.89,Zancudo Grande Valley,Zancudo Barranca,Great Chaparral
+ZGV_A2, -697.84, 2430.39, 61.30, -56.62,Zancudo Grande Valley,,Great Chaparral
+ZGV_A3, -568.73, 2637.51, 45.45,  10.28,Zancudo Grande Valley,,Great Chaparral
+ZGV_A4, -383.16, 2864.89, 41.00, -44.17,Zancudo Grande Valley,Route 68,ZANCUDO
+[Zancudo Grande Valley,Sub]
+ZGV_B1, -560.30, 2633.40, 45.73,  -9.87,Zancudo Grande Valley,,GREATC
+ZGV_B2, -473.87, 2735.78, 45.40, -40.98,Zancudo Grande Valley,,GREATC
+ZGV_B3, -367.49, 2850.89, 43.73, -42.28,Zancudo Grande Valley,Route 68,ZANCUDO
+[Zancudo Grande Valley,Sub,Slow]
+ZGV_C1, -442.19, 2745.76, 46.43, 152.24,Zancudo Grande Valley,,GREATC
+ZGV_C2, -275.14, 2644.51, 60.11,-146.71,Zancudo Grande Valley,,GREATC
+[Zancudo Rd]
+ZAR_A1,-1683.15, 2429.91, 29.13,-179.20,Zancudo Rd,Route 68,Lago Zancudo
+ZAR_A2,-1516.96, 2103.88, 57.30,-148.98,Zancudo Rd,Tongva Dr,TONGVAV
+//not exist in map data
+[El Gordo Drive,Slow]
+EGD_A1, 3060.06, 5054.84, 25.59,   9.10,Catfish View,,San Chianski Mountain Range
+EGD_A2, 3335.30, 5472.44, 19.80, -10.40,Catfish View,,Mount Gordo
+[Raton Pass,Slow]
+RAP_A1, -253.98, 3926.17, 40.89,  30.59,Calafia Rd,,Alamo Sea
+RAP_A2,-1901.83, 4436.17, 43.28,  68.25,Cassidy Trail,,Raton Canyon
+RAP_A3,-2244.34, 4304.29, 47.50,-134.56,Great Ocean Hwy,,NCHU
+[Zancudo Trail,Slow]
+ZAT_A1,-2498.00, 3667.43, 13.34,  82.87,Great Ocean Hwy,,North Chumash
+ZAT_A2,-3017.54, 3377.58, 10.60, 178.88,Great Ocean Hwy,,Fort Zancudo
+ZAT_A3, -316.55, 2952.53, 28.21,-107.62,Route 68,,Zancudo River
+//Special Zone
+//[Davis Quart]
+//[Bolingbroke Penitentiary/JAIL]
+//RSE_D1, 1863.32, 2516.25, 45.91,  -1.48,Route 68,,JAIL
+//RSE_D2, 1627.03, 2762.05, 45.92, 136.85,Route 68,,JAIL
+//RSE_D4, 1545.28, 2439.10, 45.91,-119.33,Route 68,,DESRT
+//SEF_D8, 1792.80, 2412.95, 45.92, -49.51,Senora Fwy,,JAIL
+//SEF_D8, 1861.88, 2514.71, 45.92,  -4.22,Senora Fwy,,JAIL
+//[Fort Zancudo/ARMYB]
+//FOZA13,-1584.07, 2795.22, 16.84,  40.77,Fort Zancudo Approach Rd,,Fort Zancudo
+//FOZA28,-2121.76, 3363.53, 32.90,  62.99,Fort Zancudo Approach Rd,,ARMYB
+//[Vinewood Racetrack/HORS]
+//VPD_A8, 1077.85,  135.47, 81.88, 148.04,Vinewood Park Dr,,HORS
+//MPB_A9, 1129.86,  -35.61, 81.90, -33.36,Mirror Park Blvd,,HORS
+//VPD_A0, 1260.72,  175.12, 81.88, -30.33,Vinewood Park Dr,,HORS
+//VPD_A8, 1077.85,  135.47, 81.88, 148.04,Vinewood Park Dr,,HORS
+//[N.O.O.S.E/NOOSE]
+//SURB22, 2548.13, -604.85, 64.09, -82.19,Sustancia Rd,,PALHIGH
+//SURB23, 2593.85, -293.67, 92.86,   2.98,Sustancia Rd,,NOOSE
+//SURB24, 2572.09, -279.51, 92.97,  90.59,Sustancia Rd,,NOOSE
+//PAFB47, 2487.34, -312.09, 92.97, 166.64,Palomino Fwy,,NOOSE
+//PAFB22, 2443.96, -381.21, 92.97, 178.05,Palomino Fwy,,NOOSE
+//SURB46, 2495.85, -465.98, 92.97,-134.53,Sustancia Rd,,NOOSE
+//SURB05, 2571.04, -306.38, 92.97,  -5.20,Sustancia Rd,,NOOSE
